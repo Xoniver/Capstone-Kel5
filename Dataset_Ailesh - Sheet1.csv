@@ -1,0 +1,761 @@
+Inventory_Name,Area,Unit_Proses,Tipe,Material,Nilai,Satuan,Kategori
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,Acrylate polymer,103.00,kg,Raw Material
+Oil & Gas,Adi Sucipto,Pompa,Input,Air,13.28,m3,Material
+Oil & Gas,Adi Sucipto,Mobil Tangki,Output,air limpasan,"31,000.00",kg,Emisi
+Oil & Gas,Hasanudin,Storage Tank,Output,air limpasan,96.10,m3,Emisi ke air
+Oil & Gas,Adi Sucipto,Refueller,Input,air limpasan,"31,000.00",kg,Lainnya
+Oil & Gas,Adi Sucipto,Oil Catcher,Input,air limpasan,"31,000.00",kg,Material
+Oil & Gas,Adi Sucipto,Oil Catcher,Input,air limpasan,"450,000.00",kg,Material
+Oil & Gas,Adi Sucipto,Oil Catcher,Input,air limpasan,"83,850.00",kg,Material
+Oil & Gas,Hasanudin,Oil Catcher,Input,air limpasan,64.50,m3,Material
+Oil & Gas,Maos,Oil Catcher,Input,air limpasan,753.00,kg,Material
+Oil & Gas,Hasanudin,Oil Catcher,Input,air limpasan,20.20,m3,Material
+Oil & Gas,Maos,Oil Catcher,Input,air limpasan,753.00,kg,Material
+Oil & Gas,Ahmad Yani,Oil Catcher,Input,air limpasan,0.34,m3,Material
+Oil & Gas,Adi Sumarno,Oil Catcher,Input,air limpasan,23.18,m3,Material
+Oil & Gas,Hasanudin,Oil Catcher,Input,air limpasan,23.50,m3,Material
+Oil & Gas,Hasanudin,Oil Catcher,Input,air limpasan,96.10,m3,Material
+Oil & Gas,Maos,Oil Catcher,Input,air limpasan,753.00,kg,Material
+Oil & Gas,Hasanudin,Oil Catcher,Input,air limpasan,187.40,m3,Material
+Oil & Gas,Adi Sucipto,Oil Catcher,Input,air limpasan,"47,000.00",kg,Material
+Oil & Gas,Ahmad Yani,Refueller,Output,air limpasan,0.34,kg,Material
+Oil & Gas,Adi Sumarno,Refueller,Output,air limpasan,23.18,kg,Material
+Oil & Gas,Bitung,Filling Shed Pump,Output,air limpasan,"13,77",m3,Waste
+Oil & Gas,Hasanudin,Filter Separator,Output,air limpasan,64.45,m3,Waste
+Oil & Gas,Hasanudin,Penerimaan,Output,air limpasan,20.23,m3,Waste
+Oil & Gas,Makasar,Perkantoran,Output,air limpasan,"1,840.00",m3,Waste
+Oil & Gas,Adi Sucipto,Perkantoran,Output,air limpasan,"47,000.00",kg,Waste
+Oil & Gas,Cilacap,Pompa,Output,air limpasan,"291,200.00",kg,Waste
+Oil & Gas,Hasanudin,Pompa,Output,air limpasan,24.27,m3,Waste
+Oil & Gas,Makasar,Pompa,Output,air limpasan,284.00,m3,Waste
+Oil & Gas,Bitung,Pompa,Output,air limpasan,"13,77",m3,Waste
+Oil & Gas,Hasanudin,Refueller,Output,air limpasan,23.45,m3,Waste
+Oil & Gas,Adi Sucipto,Refueller,Output,air limpasan,"31,000.00",kg,Waste
+Oil & Gas,Cilacap,Storage Tank,Output,air limpasan,"360,800.00",kg,Waste
+Oil & Gas,Makasar,Storage Tank,Output,air limpasan,"1,160.00",m3,Waste
+Oil & Gas,Bitung,Storage Tank,Output,air limpasan,"18,06",m3,Waste
+Oil & Gas,Adi Sucipto,Storage Tank,Output,air limpasan,83.85,m3,Waste
+Oil & Gas,Maos,Storage Tank,Output,air limpasan,753.00,kg,Waste
+Oil & Gas,Adi Sucipto,Use Stage,Output,air limpasan,"47,000.00",kg,Waste
+Oil & Gas,Adi Sucipto,Storage Tank,Input,air limpasan,"450,000.00",kg,Lainnya
+Oil & Gas,Hasanudin,Oil Catcher,Input,air limpasan,24.30,m3,Material
+Oil & Gas,Maos,Oil Catcher,Input,air limpasan,753.00,kg,Material
+Oil & Gas,Adi Sucipto,Perkantoran,Input,Air Perkantoran,3.71,m3,Energi
+Oil & Gas,Adi Sucipto,Perkantoran,Output,Air sisa cuci refueller,"327,700.00",kg,Waste
+Oil & Gas,Adi Sucipto,Use Stage,Output,Air sisa cuci refueller,"327,700.00",kg,Waste
+Palm Oil_Mill,Asian Agri,WTP,Input,Alum/tawas (Al2(SO4)3),19.805.00,kg,Raw material
+Oil & Gas,Hasanudin,Kolam Limbah,Output,Ammonia,0.38,kg,Emisi ke air
+Oil & Gas,Ahmad Yani,Kolam Limbah,Output,Ammonia,0.00,kg,Waste
+Oil & Gas,Maos,Kolam Limbah,Output,Ammonia,0.00,kg,Waste
+Oil & Gas,Adi Sumarno,Kolam Limbah,Output,Ammonia,0.00,kg,Waste
+Palm Oil_Mill,Asian Agri,Boiler,Output,Ammonia,80.00,kg,Emission
+Palm Oil_Mill,Asian Agri,FFB,Input,Ammonium Sulfate (ZA),4.963.466.19,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,Ammonium Sulfate (ZA),87.198.54,kg,Fertilizer
+Palm Oil_Refinery,Apical,WTP,Input,Anti Scallant N-5005,9.82,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Anti Scallant PC-191T,895.00,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Antifoam,0.82,m3,BBM
+Oil & Gas,Ahmad Yani,Pompa,Input,BBM,"12,294,251.00",m3,Material
+Oil & Gas,Adi Sumarno,Pompa,Input,BBM,"5,300.67",m3,Material
+Oil & Gas,Ahmad Yani,Storage Tank,Output,BBM,"12,168.00",m3,Material
+Oil & Gas,Adi Sumarno,Storage Tank,Output,BBM,"5,300.67",m3,Material
+Oil & Gas,Adi Sucipto,Pompa,Input,BBM,"7,092,040.00",m3,Material
+Oil & Gas,Adi Sucipto,Storage Tank,Output,BBM,"7,092,040.00",m3,Material
+Palm Oil_Mill,Asian Agri,FFB,Input,Basta,3.29,m3,Pesticide
+Oil & Gas,Pare Pare,Genset,Input,BBM,600.00,m3,Energi
+Oil & Gas,Hasanudin,Bridger,Input,BBM,"15,890.00",m3,Material
+Oil & Gas,Hasanudin,Bridger,Output,BBM,"15,890.00",m3,Material
+Oil & Gas,Adi Sucipto,Filter Separator,Input,BBM,"38,619.91",m3,Material
+Oil & Gas,Ahmad Yani,Filter Separator,Output,BBM,"12,294,251.00",m3,Material
+Oil & Gas,Adi Sumarno,Filter Separator,Output,BBM,"5,300.67",m3,Material
+Oil & Gas,Ahmad Yani,Filter Separator,Input,BBM,"12,294,251.00",m3,Material
+Oil & Gas,Adi Sumarno,Filter Separator,Input,BBM,"5,300.67",m3,Material
+Oil & Gas,Adi Sucipto,Filter Separator,Output,BBM,"7,053,330.00",m3,Material
+Oil & Gas,Adi Sucipto,Filter Separator,Input,BBM,"7,092,040.00",m3,Material
+Oil & Gas,Hasanudin,Filter Separator,Output,BBM,"171,031.00",m3,Material
+Oil & Gas,Adi Sucipto,Mobil Tangki,Input,BBM,"1,972,058.08",m3,Material
+Oil & Gas,Adi Sucipto,Mobil Tangki,Output,BBM,"1,972,058.08",m3,Material
+Oil & Gas,Maos,Mobil Tangki,Output,BBM,"1,330,000,000.00",kg,Material
+Oil & Gas,Adi Sucipto,Penerimaan,Output,BBM,"6,720.00",m3,Material
+Oil & Gas,Adi Sucipto,Penerimaan,Input,BBM,"6,720.00",m3,Material
+Oil & Gas,Maos,Penerimaan,Input,BBM,"1,340,000,000.00",kg,Material
+Oil & Gas,Maos,Penerimaan,Output,BBM,"1,340,000,000.00",kg,Material
+Oil & Gas,Hasanudin,Penerimaan,Input,BBM,"170,064.00",m3,Material
+Oil & Gas,Maos,Pompa,Output,BBM,"1,330,000,000.00",kg,Material
+Oil & Gas,Adi Sucipto,Pompa,Output,BBM,"1,972,058.08",m3,Material
+Oil & Gas,Adi Sumarno,Pompa,Output,BBM,"5,232.00",m3,Material
+Oil & Gas,Ahmad Yani,Pompa,Output,BBM,"12,168.00",m3,Material
+Oil & Gas,Adi Sumarno,Pompa,Input,BBM,"5,232.00",m3,Material
+Oil & Gas,Ahmad Yani,Pompa,Input,BBM,"12,168.00",m3,Material
+Oil & Gas,Ahmad Yani,Pompa,Output,BBM,"12,294,251.00",m3,Material
+Oil & Gas,Adi Sumarno,Pompa,Output,BBM,"5,300.67",m3,Material
+Oil & Gas,Adi Sucipto,Pompa,Output,BBM,"7,092,040.00",m3,Material
+Oil & Gas,Hasanudin,Pompa,Input,BBM,"171,031.00",m3,Material
+Oil & Gas,Ahmad Yani,Refueller,Input,BBM,"12,294,251.00",m3,Material
+Oil & Gas,Adi Sumarno,Refueller,Input,BBM,"5,300.67",m3,Material
+Oil & Gas,Ahmad Yani,Refueller,Output,BBM,"12,294,251.00",m3,Material
+Oil & Gas,Adi Sumarno,Refueller,Output,BBM,"5,300.67",m3,Material
+Oil & Gas,Adi Sucipto,Refueller,Input,BBM,"7,053,330.00",m3,Material
+Oil & Gas,Adi Sucipto,Refueller,Output,BBM,"7,053,330.00",m3,Material
+Oil & Gas,Hasanudin,Refueller,Input,BBM,"155,140.00",m3,Material
+Oil & Gas,Hasanudin,Refueller,Output,BBM,"155,140.00",m3,Material
+Oil & Gas,Adi Sucipto,Storage Tank,Input,BBM,"372,107.51",m3,Material
+Oil & Gas,Ahmad Yani,Storage Tank,Input,BBM,"126,251.00",m3,Material
+Oil & Gas,Adi Sumarno,Storage Tank,Input,BBM,143.18,m3,Material
+Oil & Gas,Ahmad Yani,Storage Tank,Input,BBM,"12,168.00",m3,Material
+Oil & Gas,Adi Sumarno,Storage Tank,Input,BBM,"5,232.00",m3,Material
+Oil & Gas,Adi Sucipto,Storage Tank,Input,BBM,"6,720.00",m3,Material
+Oil & Gas,Adi Sucipto,Storage Tank,Input,BBM,"34,577.78",m3,Material
+Oil & Gas,Maos,Storage Tank,Input,BBM,"1,340,000,000.00",kg,Material
+Oil & Gas,Adi Sucipto,Storage Tank,Input,BBM,"1,937,480.30",m3,Material
+Oil & Gas,Maos,Storage Tank,Input,BBM,"9,710,000.00",kg,Material
+Oil & Gas,Maos,Storage Tank,Output,BBM,"1,330,000,000.00",kg,Material
+Oil & Gas,Hasanudin,Storage Tank,Input,BBM,"170,064.00",m3,Material
+Oil & Gas,Hasanudin,Storage Tank,Output,BBM,"170,064.00",m3,Material
+Oil & Gas,Hasanudin,Storage Tank,Input,BBM,"6,552.00",m3,Material
+Oil & Gas,Ahmad Yani,Use Stage,Input,BBM,"12,294,251.00",m3,Material
+Oil & Gas,Adi Sumarno,Use Stage,Input,BBM,"5,300.67",m3,Material
+Oil & Gas,Ahmad Yani,Use Stage,Output,BBM,"12,294,251.00",m3,Material
+Oil & Gas,Adi Sumarno,Use Stage,Output,BBM,"5,300.67",m3,Material
+Oil & Gas,Adi Sucipto,Use Stage,Input,BBM,"7,053,330.00",m3,Material
+Oil & Gas,Maos,Use Stage,Input,BBM,"1,330,000,000.00",kg,Material
+Oil & Gas,Maos,Use Stage,Output,BBM,"1,330,000,000.00",kg,Material
+Oil & Gas,Adi Sucipto,Use Stage,Input,BBM,"1,972,058.08",m3,Material
+Oil & Gas,Pare Pare,Genset,Output,BBM,"637,331,003.00",m3,Product
+Oil & Gas,Boyolali,Mobil Tangki,Output,BBM,"1,720,000.00",m3,Product
+Oil & Gas,Cilacap,Mobil Tangki,Output,BBM,"1,790,585.80",m3,Product
+Oil & Gas,FT Rewulu,Mobil Tangki,Output,BBM,"1,790,000.00",m3,Product
+Oil & Gas,Bitung,Use Stage,Output,BBM,"1,932,423.00",m3,Product
+Oil & Gas,Pare Pare,Genset,Input,BBM,"637,331,003.00",m3,Raw Material
+Oil & Gas,Makasar,Penerimaan,Input,BBM,"2,798,232.26",m3,Raw Material
+Oil & Gas,Bitung,Penerimaan,Input,BBM,"1,463,045.00",m3,Raw Material
+Oil & Gas,Cilacap,Storage Tank,Input,BBM,"1,754,901.86",m3,Raw Material
+Oil & Gas,Rewulu,Storage Tank,Input,BBM,"176,000,000.00",m3,Raw Material
+Oil & Gas,Boyolali,Storage Tank,Input,BBM,"1,430,000.00",m3,Raw Material
+Oil & Gas,Boyolali,Storage Tank,Input,BBM,"1,430,000.00",m3,Raw Material
+Oil & Gas,Boyolali,Storage Tank,Input,BBM,"1,430,000.00",m3,Raw Material
+Oil & Gas,FT Rewulu,Storage Tank,Input,BBM,"3,698,865.00",m3,Raw Material
+Oil & Gas,Cilacap,Storage Tank,Input,BBM,"36,944.00",m3,Raw Material
+Oil & Gas,Maos,Mobil Tangki,Input,BBM,"1,330,000,000.00",kg,Material
+Oil & Gas,Maos,Filter Separator,Input,BBM,"1,330,000,000.00",kg,Material
+Oil & Gas,Maos,Pompa,Input,BBM,"1,330,000,000.00",kg,Material
+Oil & Gas,Adi Sucipto,Pompa,Input,BBM,"1,972,058.08",m3,Material
+Oil & Gas,Adi Sucipto,Storage Tank,Output,BBM,"1,972,058.08",m3,Material
+Oil & Gas,Makasar,Use Stage,Output,BBM,"2,280,000.00",m3,Product
+Oil & Gas,Hasanudin,Penerimaan,Output,BBM,"170,064.00",m3,Material
+Oil & Gas,Hasanudin,Filter Separator,Input,BBM,"171,031.00",m3,Material
+Oil & Gas,Hasanudin,Pompa,Output,BBM,"171,031.00",m3,Material
+Palm Oil_Refinery,Apical,WTP,Input,Biodicde Nalco 3935,10.33,kg,BBM
+Palm Oil_Mill,Asian Agri,Digester,Output,Biogas,"21,027,270.00",kg,Product
+Oil & Gas,Hasanudin,Kolam Limbah,Output,BOD,1.11,kg,Emisi ke air
+Oil & Gas,Cilacap,WTP,Output,BOD,226.89,kg,Emisi ke air
+Oil & Gas,FT Rewulu,WTP,Output,BOD,21.80,kg,Emisi ke air
+Oil & Gas,Boyolali,WTP,Output,BOD,0.40,kg,Emisi ke air
+Oil & Gas,Boyolali,WTP,Output,BOD,0.40,kg,Emisi ke air
+Oil & Gas,Maos,Kolam Limbah,Output,BOD,0.02,kg,Waste
+Oil & Gas,Ahmad Yani,Kolam Limbah,Output,BOD5,0.02,kg,Waste
+Oil & Gas,Adi Sumarno,Kolam Limbah,Output,BOD5,0.00,kg,Waste
+Palm Oil_Mill,Asian Agri,FFB,Input,Borite (HGFB),736.118.00,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,Borite (HGFB),9.818.38,kg,Fertilizer
+Oil & Gas,Ahmad Yani,Genset,Output,Carbon Dioxide (CO2),1.50,mg/Nm3,Emisi
+Oil & Gas,Adi Sucipto,Genset,Output,Carbon Dioxide (CO2),"657,233.60",kg,Emisi
+Oil & Gas,Adi Sumarno,Genset,Output,Carbon Dioxide (CO2),2.121.51,kg,Emisi
+Oil & Gas,Cilacap,Genset,Output,Carbon Dioxide (CO2),"20,818.19",kg,Emisi
+Oil & Gas,Makasar,Genset,Output,Carbon Dioxide (CO2),"8,780.00",kg,Emisi
+Oil & Gas,Boyolali,Genset,Output,Carbon Dioxide (CO2),25.20,kg,Emisi
+Oil & Gas,Bitung,Genset,Output,Carbon Dioxide (CO2),"88451,22",kg,Emisi
+Oil & Gas,FT Rewulu,Genset,Output,Carbon Dioxide (CO2),"22,400.00",kg,Emisi
+Oil & Gas,Adi Sucipto,Mobil Tangki,Output,Carbon Dioxide (CO2),"15,047.00",kg,Emisi
+Oil & Gas,Adi Sumarno,Refueller,Output,Carbon Dioxide (CO2),15.05,kg,Emisi
+Oil & Gas,Adi Sucipto,Use Stage,Output,Carbon Dioxide (CO2),"5,260,662.14",kg,Emisi
+Oil & Gas,Ahmad Yani,Use Stage,Output,Carbon Dioxide (CO2),"305,929,158,340,000,000.00",kg,Emisi
+Oil & Gas,Adi Sumarno,Use Stage,Output,Carbon Dioxide (CO2),130.325.00,kg,Emisi
+Oil & Gas,Cilacap,Use Stage,Output,Carbon Dioxide (CO2),"3,672,621,423.00",kg,Emisi
+Oil & Gas,FT Rewulu,Use Stage,Output,Carbon Dioxide (CO2),"3,680,000,000.00",kg,Emisi
+Oil & Gas,Makasar,Use Stage,Output,Carbon Dioxide (CO2),"4,780,000,000.00",kg,Emisi
+Oil & Gas,Boyolali,Use Stage,Output,Carbon Dioxide (CO2),"3,660,000,000.00",kg,Emisi
+Oil & Gas,Bitung,Use Stage,Output,Carbon Dioxide (CO2),"4,020,000,000,000.00",kg,Emisi
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Output,Carbon Dioxide (CO2),129.671.125,kg,Emisi ke air
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Output,Carbon Dioxide (CO2),28.57,kg,Emisi ke air
+Oil & Gas,Maos,Genset,Output,Carbon Dioxide (CO2),"2,070.00",kg,Emisi ke air
+Oil & Gas,Hasanudin,Genset,Output,Carbon Dioxide (CO2),462.00,kg,Emisi ke air
+Oil & Gas,Pare Pare,Genset,Output,Carbon Dioxide (CO2),"128,156,000.00",kg,Emisi ke air
+Oil & Gas,Pare Pare,Genset,Output,Carbon Dioxide (CO2),"133,728,000.00",kg,Emisi ke air
+Palm Oil_Mill,Bumitama Gunajaya,Genset,Output,Carbon Dioxide (CO2),"25.384,54 ",kg,Emisi ke air
+Palm Oil_Mill,Bumitama Gunajaya,Genset,Output,Carbon Dioxide (CO2),22.55,kg,Emisi ke air
+Oil & Gas,Hasanudin,Refueller,Output,Carbon Dioxide (CO2),215.94,kg,Emisi ke air
+Oil & Gas,Adi Sucipto,Genset,Output,Carbon Dioxide (CO2),493.51,kg,Waste
+Oil & Gas,Adi Sucipto,Use Stage,Output,Carbon Dioxide (CO2),"17,551,449.95",kg,Waste
+Oil & Gas,Ahmad Yani,Genset,Output,Carbon Monoxide (CO),235.00,mg/Nm3,Emisi
+Oil & Gas,Pare Pare,Genset,Output,Carbon Monoxide (CO),"7,739,508,000.00",kg,Emisi ke air
+Oil & Gas,Pare Pare,Genset,Output,Carbon Monoxide (CO),"1,125,544,000.00",kg,Emisi ke air
+Palm Oil_Mill,Asian Agri,Genset,Output,Carbon Monoxide (CO),216.01,kg,Emission
+Palm Oil_Refinery,Apical,WTP,Input,Cartridge Filter,6.19,pcs,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Caustic Liquid 48%,0.01,m3,BBM
+Palm Oil_Mill,Asian Agri,WTP,Input,Caustic Soda (NaOH),8.670.00,kg,Raw material
+Palm Oil_Refinery,Apical,WTP,Input,Caustic Soda Flake 98%,92.85,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Caustic soda liquid,99.16,kg,BBM
+Palm Oil_Mill,Asian Agri,FFB,Output,Cd (aq),2.70,kg,Emission
+Oil & Gas,Adi Sucipto,Storage Tank,Output,Ceceran minyak,0.23,m3,Waste
+Palm Oil_Refinery,Apical,WTP,Input,chemicals,816.00,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,chemicals,6.56,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,chemicals,879.00,kg,BBM
+Palm Oil_Mill,Asian Agri,FFB,Input,chemicals,641.986.50,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,chemicals,2.72,m3,Pesticide
+Palm Oil_Mill,Asian Agri,FFB,Input,chemicals,2.53,m3,Pesticide
+Palm Oil_Mill,Asian Agri,FFB,Input,chemicals,0.84,m3,Pesticide
+Palm Oil_Mill,Asian Agri,FFB,Input,chemicals,1.83,m3,Pesticide
+Palm Oil_Mill,Asian Agri,FFB,Input,chemicals,0.20,m3,Pesticide
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,chemicals,126.00,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,chemicals,30.00,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,chemicals,107.00,kg,Raw Material
+Palm Oil_Mill,Asian Agri,FFB,Output,chemicals,31.10,kg,Emission
+Palm Oil_Mill,Asian Agri,FFB,Output,chemicals,1.80,kg,Waste
+Palm Oil_Mill,Asian Agri,FFB,Output,chemicals,"3,326.70",kg,Waste
+Oil & Gas,Maos,Kolam Limbah,Input,Chlorine (Cl2),60.00,kg,Material
+Palm Oil_Mill,Asian Agri,Boiler,Output,Chlorine (Cl2),90.00,kg,Emission
+Oil & Gas,Boyolali,Kolam Limbah,Input,chlorine transported,"10,400",kg,Bahan Kimia
+Oil & Gas,Boyolali,Kolam Limbah,Input,chlorine transported,"10,400",kg,Bahan Kimia
+Palm Oil_Refinery,Apical,WTP,Input,Citric Acid,4.98,kg,BBM
+Palm Oil_Refinery,Apical,Power Plant,Input,Coal,203.583.907,kg,BBM
+Oil & Gas,Hasanudin,Kolam Limbah,Output,COD,2.83,kg,Emisi ke air
+Oil & Gas,Cilacap,WTP,Output,COD,541.04,kg,Emisi ke air
+Oil & Gas,FT Rewulu,WTP,Output,COD,53.70,kg,Emisi ke air
+Oil & Gas,Boyolali,WTP,Output,COD,1.24,kg,Emisi ke air
+Oil & Gas,Boyolali,WTP,Output,COD,1.24,kg,Emisi ke air
+Oil & Gas,Ahmad Yani,Kolam Limbah,Output,COD,0.01,kg,Waste
+Oil & Gas,Adi Sumarno,Kolam Limbah,Output,COD,0.00,kg,Waste
+Palm Oil_Mill,Asian Agri,Segregation Station,Input,Condensate,"40,996,990.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Sterilization Station,Output,Condensate,"40,997.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Clean Oil Tank,Output,CPO,"44,073.00",kg,Product
+Palm Oil_Mill,Asian Agri,Clean Oil Tank,Input,CPO,"41,869.00",kg,Product
+Palm Oil_Mill,Asian Agri,Clean Oil Tank,Input,CPO,"1,224,620.00",kg,Product
+Palm Oil_Mill,Asian Agri,Clean Oil Tank,Input,CPO,"2,204.00",kg,Product
+Palm Oil_Mill,Asian Agri,Continuous Settling Tank (CST),Input,CPO,"65,100,270.00",kg,Product
+Palm Oil_Mill,Asian Agri,Continuous Settling Tank (CST),Output,CPO,"41,869.00",kg,Product
+Palm Oil_Mill,Asian Agri,Crude Oil Tank,Output,CPO,"65,100,270.00",kg,Product
+Palm Oil_Mill,Asian Agri,Crude Oil Tank,Input,CPO,"32,550,150.00",kg,Product
+Palm Oil_Mill,Asian Agri,Crude Oil Tank,Input,CPO,"32,550,150.00",kg,Product
+Palm Oil_Mill,Asian Agri,Crude Palm Oil Tank,Output,CPO,"44,073.00",kg,Product
+Palm Oil_Mill,Asian Agri,Crude Palm Oil Tank,Input,CPO,"44,073.00",kg,Product
+Palm Oil_Mill,Asian Agri,Digester,Output,CPO,"32,550,150.00",kg,Product
+Palm Oil_Mill,Asian Agri,Screw Pressing,Output,CPO,"32,550,150.00",kg,Product
+Palm Oil_Mill,Asian Agri,Segregation Station,Output,CPO,"1,224,620.00",kg,Product
+Palm Oil_Mill,Asian Agri,Sludge Tank & Separator,Output,CPO (from sludge separator),"2,204.00",kg,Product
+Palm Oil_Refinery,Apical,Power Plant,Input,Diesel,0.14,m3,BBM
+Oil & Gas,Makasar,Genset,Input,Diesel,"2,680.00",kg,Energi
+Oil & Gas,Bitung,Genset,Input,Diesel,"6,237.00",kg,Energi
+Oil & Gas,Cilacap,Genset,Input,Diesel,"6,850.34",kg,Energi
+Oil & Gas,FT Rewulu,Genset,Input,Diesel,0.01,m3,Energi
+Oil & Gas,Boyolali,Genset,Input,Diesel,1.49,m3,Energi
+Oil & Gas,Boyolali,Genset,Input,Diesel,1.49,m3,Energi
+Oil & Gas,Hasanudin,Genset,Input,Diesel,6.37,m3,Energi
+Palm Oil_Mill,Bumitama Gunajaya,Genset,Input,Diesel,"11,373.00",m3,Energi
+Palm Oil_Mill,Bumitama Gunajaya,Genset,Input,Diesel,"10,105.00",m3,Energi
+Oil & Gas,Adi Sucipto,Mobil Tangki,Input,Diesel,"3,181.32",m3,Energi
+Oil & Gas,Cilacap,Mobil Tangki,Input,Diesel,"1,434,261.45",kg,Energi
+Oil & Gas,Hasanudin,Refueller,Input,Diesel,85.66,m3,Energi
+Oil & Gas,Ahmad Yani,Genset,Input,Diesel,"12,006.00",kg,Material
+Oil & Gas,Adi Sucipto,Genset,Input,Diesel,160.95,kg,Material
+Oil & Gas,Adi Sucipto,Genset,Input,Diesel,160.95,kg,Material
+Oil & Gas,Adi Sumarno,Genset,Input,Diesel,754.20,kg,Material
+Oil & Gas,Maos,Genset,Input,Diesel,"686,000.00",kg,Material
+Oil & Gas,Adi Sucipto,Mobil Tangki,Input,Diesel,"4,084.80",m3,Material
+Oil & Gas,Hasanudin,Pompa,Input,Diesel,0.07,m3,Material
+Oil & Gas,Ahmad Yani,Refueller,Input,Diesel,"3,521.76",kg,Material
+Oil & Gas,Adi Sumarno,Refueller,Input,Diesel,"3,715.00",kg,Material
+Palm Oil_Mill,Asian Agri,Genset,Input,Diesel,"154,331.00",kg,Energy
+Palm Oil_Mill,Asian Agri,FFB,Input,Diesel,127.15,m3,Energy
+Palm Oil_Mill,Asian Agri,FFB,Input,Diesel,377.19,m3,Energy
+Palm Oil_Mill,Asian Agri,Digester,Output,Digested fruit,"97,650.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Screw Pressing,Input,Digested fruit,"97,650.00",kg,Raw material
+Oil & Gas,Adi Sumarno,Genset,Output,Dinitrogen Monoxide (N2O),61.45,kg,Emisi
+Oil & Gas,Cilacap,Genset,Output,Dinitrogen Monoxide (N2O),0.00,kg,Emisi
+Oil & Gas,FT Rewulu,Genset,Output,Dinitrogen Monoxide (N2O),0.17,kg,Emisi
+Oil & Gas,Boyolali,Genset,Output,Dinitrogen Monoxide (N2O),0.00,kg,Emisi
+Oil & Gas,Cilacap,Mobil Tangki,Output,Dinitrogen Monoxide (N2O),0.04,kg,Emisi
+Oil & Gas,Adi Sumarno,Refueller,Output,Dinitrogen Monoxide (N2O),0.10,kg,Emisi
+Oil & Gas,Adi Sucipto,Use Stage,Output,Dinitrogen Monoxide (N2O),42.60,kg,Emisi
+Oil & Gas,Ahmad Yani,Use Stage,Output,Dinitrogen Monoxide (N2O),"849,803.00",kg,Emisi
+Oil & Gas,Adi Sumarno,Use Stage,Output,Dinitrogen Monoxide (N2O),362.09,kg,Emisi
+Oil & Gas,Cilacap,Use Stage,Output,Dinitrogen Monoxide (N2O),34.34,kg,Emisi
+Oil & Gas,FT Rewulu,Use Stage,Output,Dinitrogen Monoxide (N2O),"34,400.00",kg,Emisi
+Oil & Gas,Makasar,Use Stage,Output,Dinitrogen Monoxide (N2O),"62,500.00",kg,Emisi
+Oil & Gas,Boyolali,Use Stage,Output,Dinitrogen Monoxide (N2O),"56,900.00",kg,Emisi
+Oil & Gas,Bitung,Use Stage,Output,Dinitrogen Monoxide (N2O),"40,700,000.00",kg,Emisi
+Oil & Gas,Maos,Genset,Output,Dinitrogen Monoxide (N2O),"1,680.00",kg,Emisi ke air
+Oil & Gas,Hasanudin,Genset,Output,Dinitrogen Monoxide (N2O),0.60,kg,Emisi ke air
+Oil & Gas,Pare Pare,Genset,Output,Dinitrogen Monoxide (N2O),"618,492,000.00",kg,Emisi ke air
+Oil & Gas,Pare Pare,Genset,Output,Dinitrogen Monoxide (N2O),"1,125,544,000.00",kg,Emisi ke air
+Oil & Gas,Hasanudin,Refueller,Output,Dinitrogen Monoxide (N2O),1.70,kg,Emisi ke air
+Oil & Gas,Adi Sucipto,Use Stage,Output,Dinitrogen Monoxide (N2O),487.54,kg,Waste
+Oil & Gas,Maos,Penerimaan,Input,Drum,"2,660.00",kg,Material
+Oil & Gas,Maos,Pompa,Input,Drum,14.00,kg,Material
+Oil & Gas,Maos,Storage Tank,Input,Drum,"1,340.00",kg,Material
+Oil & Gas,Maos,Penerimaan,Output,Drum bekas,"2,660.00",kg,Waste
+Oil & Gas,Maos,Pompa,Output,Drum bekas,14.00,kg,Waste
+Oil & Gas,Maos,Storage Tank,Output,Drum bekas,"1,340.00",kg,Waste
+Palm Oil_Mill,Asian Agri,FFB,Input,Elang isopropil amina glifosat 480 g/l,2.43,m3,Pesticide
+Oil & Gas,Makasar,Filling Shed Pump,Input,electricity,44.40,kWh,Energi
+Oil & Gas,Bitung,Filling Shed Pump,Input,electricity,"1,860.00",kWh,Energi
+Oil & Gas,Makasar,Filling Shed Pump,Input,electricity,"15,600.00",kWh,Energi
+Oil & Gas,Bitung,Filling Shed Pump,Input,electricity,"8467,1",kWh,Energi
+Palm Oil_Refinery,Apical,KCP,Input,electricity,17.759.300,kWh,Energi
+Oil & Gas,Adi Sucipto,Penerimaan,Input,electricity,"1,534.80",kWh,Energi
+Oil & Gas,Adi Sucipto,Penerimaan,Input,electricity,392.20,kWh,Energi
+Oil & Gas,Makasar,Penerimaan,Input,electricity,44.40,kWh,Energi
+Oil & Gas,Makasar,Penerimaan,Input,electricity,"15,600.00",kWh,Energi
+Oil & Gas,Adi Sucipto,Perkantoran,Input,electricity,"46,304.40",kWh,Energi
+Oil & Gas,Adi Sucipto,Perkantoran,Input,electricity,"256,521.53",kWh,Energi
+Oil & Gas,Maos,Perkantoran,Input,electricity,"127,000.00",kWh,Energi
+Oil & Gas,Adi Sucipto,Perkantoran,Input,electricity,"14,305.20",kWh,Energi
+Oil & Gas,Adi Sumarno,Perkantoran,Input,electricity,502.00,kWh,Energi
+Oil & Gas,Makasar,Perkantoran,Input,electricity,133.00,kWh,Energi
+Oil & Gas,Bitung,Perkantoran,Input,electricity,"3,720.00",kWh,Energi
+Oil & Gas,Makasar,Perkantoran,Input,electricity,"46,900.00",kWh,Energi
+Oil & Gas,Bitung,Perkantoran,Input,electricity,"16934,2",kWh,Energi
+Oil & Gas,Adi Sumarno,Perkantoran,Input,electricity,"19,728.82",kWh,Energi
+Oil & Gas,Adi Sucipto,Perkantoran,Input,electricity,"1,176.60",kWh,Energi
+Oil & Gas,Hasanudin,Perkantoran,Input,electricity,"11,310.00",kWh,Energi
+Oil & Gas,Maos,Perkantoran,Input,electricity,863.00,kWh,Energi
+Oil & Gas,Hasanudin,Perkantoran,Input,electricity,"265,730.00",kWh,Energi
+Oil & Gas,Boyolali,Perkantoran,Input,electricity,"103,000.00",kWh,Energi
+Oil & Gas,Cilacap,Perkantoran,Input,electricity,"216,774.00",kWh,Energi
+Oil & Gas,FT Rewulu,Perkantoran,Input,electricity,"137,000.00",kWh,Energi
+Oil & Gas,Cilacap,Perkantoran,Input,electricity,"53,457.90",kWh,Energi
+Oil & Gas,FT Rewulu,Perkantoran,Input,electricity,"25,200.00",kWh,Energi
+Oil & Gas,Boyolali,Perkantoran,Input,electricity,"5,760.00",kWh,Energi
+Oil & Gas,Maos,Pompa,Input,electricity,"434,000.00",kWh,Energi
+Oil & Gas,Maos,Pompa,Input,electricity,"2,940.00",kWh,Energi
+Oil & Gas,Cilacap,Pompa,Input,electricity,"325,162.00",kWh,Energi
+Oil & Gas,FT Rewulu,Pompa,Input,electricity,"321,000.00",kWh,Energi
+Oil & Gas,Cilacap,Pompa,Input,electricity,"35,638.60",kWh,Energi
+Oil & Gas,FT Rewulu,Pompa,Input,electricity,"58,800.00",kWh,Energi
+Oil & Gas,Adi Sucipto,Pompa,Input,electricity,"476,396.32",kWh,Energi
+Oil & Gas,Adi Sucipto,Pompa,Input,electricity,"26,566.80",kWh,Energi
+Oil & Gas,Boyolali,Pompa,Input,electricity,"241,000.00",kWh,Energi
+Oil & Gas,Boyolali,Pompa,Input,electricity,"13,400.00",kWh,Energi
+Oil & Gas,Adi Sumarno,Pompa,Output,electricity,167.33,kWh,Energi
+Oil & Gas,Adi Sumarno,Pompa,Output,electricity,15.847.96,kWh,Energi
+Oil & Gas,Ahmad Yani,Pompa,Output,electricity,"27,418.00",kWh,Energi
+Oil & Gas,Adi Sucipto,Pompa,Input,electricity,"1,534.80",kWh,Energi
+Oil & Gas,Adi Sucipto,Pompa,Input,electricity,392.20,kWh,Energi
+Oil & Gas,Adi Sumarno,Pompa,Input,electricity,167.33,kWh,Energi
+Oil & Gas,Adi Sumarno,Pompa,Input,electricity,15.847.96,kWh,Energi
+Oil & Gas,Hasanudin,Pompa,Input,electricity,"8,700.00",kWh,Energi
+Oil & Gas,Hasanudin,Pompa,Input,electricity,"204,408.00",kWh,Energi
+Oil & Gas,Makasar,Pompa,Input,electricity,622.00,kWh,Energi
+Oil & Gas,Bitung,Pompa,Input,electricity,"13,020.00",kWh,Energi
+Oil & Gas,Makasar,Pompa,Input,electricity,"219,000.00",kWh,Energi
+Oil & Gas,Bitung,Pompa,Input,electricity,"59269,7",kWh,Energi
+Palm Oil_Refinery,Apical,Power Plant,Input,electricity,33.749.119,kWh,Energi
+Oil & Gas,Makasar,Storage Tank,Input,electricity,44.40,kWh,Energi
+Oil & Gas,Makasar,Storage Tank,Input,electricity,"15,600.00",kWh,Energi
+Oil & Gas,Hasanudin,Storage Tank,Input,electricity,"1,740.00",kWh,Energi
+Oil & Gas,Hasanudin,Storage Tank,Input,electricity,"40,882.00",kWh,Energi
+Palm Oil_Refinery,Apical,WTP,Input,electricity,6.840.411,kWh,Energi
+Palm Oil_Refinery,Apical,WTP,Input,electricity,1.451.607,kWh,Energi
+Oil & Gas,Ahmad Yani,Genset,Output,electricity,"14,628.00",kWh,Material
+Oil & Gas,Adi Sumarno,Genset,Output,electricity,502.00,kWh,Material
+Oil & Gas,Maos,Genset,Output,electricity,"3,810.00",kWh,Material
+Oil & Gas,Adi Sucipto,Genset,Output,electricity,"2,353.20",kWh,Product
+Oil & Gas,Adi Sucipto,Genset,Output,electricity,"2,353.20",kWh,Product
+Oil & Gas,Pare Pare,Genset,Output,electricity,"1,754,944,147.00",kWh,Product
+Palm Oil_Refinery,Apical,Power Plant,Output,electricity,130.194.228,kWh,Product
+Palm Oil_Mill,Asian Agri,Genset,Output,electricity,69.798.00,kWh,Energy
+Palm Oil_Mill,Asian Agri,Threshing Station,Input,electricity,5.162.977,kWh,Energy
+Palm Oil_Mill,Asian Agri,Segregation Station,Input,Empty fruit bunch,"86,800,390.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Threshing Station,Output,Empty fruit bunch,"86,800,390.00",kg,Waste
+Palm Oil_Refinery,Apical,Power Plant,Input,feedwater,799.97,m3,BBM
+Oil & Gas,Bitung,Perkantoran,Input,feedwater,"1,748.00",m3,Feedwater
+Oil & Gas,Makasar,Perkantoran,Input,feedwater,"1,840.00",m3,Feedwater
+Oil & Gas,Cilacap,Perkantoran,Input,feedwater,"1,818.00",m3,Feedwater
+Oil & Gas,Boyolali,Perkantoran,Input,feedwater,512.00,m3,Feedwater
+Oil & Gas,Boyolali,Perkantoran,Input,feedwater,512.00,m3,Feedwater
+Oil & Gas,Boyolali,Perkantoran,Input,feedwater,512.00,m3,Feedwater
+Oil & Gas,Boyolali,Perkantoran,Input,feedwater,512.00,m3,Feedwater
+Oil & Gas,FT Rewulu,Perkantoran,Input,feedwater,"1,730.00",m3,Feedwater
+Oil & Gas,Adi Sucipto,Perkantoran,Input,feedwater,"328,600.00",kg,Material
+Oil & Gas,Hasanudin,Perkantoran,Input,feedwater,232.24,m3,Material
+Oil & Gas,Ahmad Yani,Perkantoran,Input,feedwater,"1,001,000.00",kg,Material
+Oil & Gas,Adi Sumarno,Perkantoran,Input,feedwater,54.68,kg,Material
+Oil & Gas,Maos,Perkantoran,Input,feedwater,788.00,m3,Material
+Oil & Gas,Hasanudin,Pompa,Input,feedwater,"187,378.00",m3,Material
+Oil & Gas,Hasanudin,Pompa,Output,feedwater,"187,378.00",m3,Material
+Oil & Gas,Ahmad Yani,Refueller,Input,feedwater,0.34,kg,Material
+Oil & Gas,Adi Sumarno,Refueller,Input,feedwater,23.18,kg,Material
+Oil & Gas,Adi Sucipto,Use Stage,Input,feedwater,"328,600.00",kg,Material
+Palm Oil_Refinery,Apical,WTP,Output,feedwater,1.990.825,m3,Product
+Palm Oil_Refinery,Apical,WTP,Output,feedwater,207.22,m3,Product
+Palm Oil_Mill,Asian Agri,Boiler,Input,feedwater,"2,754,310.00",kg,Emission
+Palm Oil_Mill,Asian Agri,WTP,Input,feedwater,410.860.000,kg,Raw material
+Palm Oil_Mill,Asian Agri,WTP,Output,feedwater,177.327.500,kg,Product
+Palm Oil_Mill,Asian Agri,WTP,Output,feedwater,233.570.097.48,kg,Product
+Palm Oil_Mill,Asian Agri,Kolam Limbah,Output,Fertilizer organic (waste water from kolam Limbah),"154,331.00",kg,Waste
+Palm Oil_Mill,Asian Agri,FFB,Input,Fertilizer organic (waste water from kolam Limbah),148.75,m3,Raw material
+Palm Oil_Mill,Asian Agri,Boiler,Input,Fiber,"1,651,520.00",kg,Energy
+Palm Oil_Mill,Asian Agri,Depericarping,Input,Fiber,"17,660,850.00",kg,Raw Material
+Palm Oil_Mill,Asian Agri,Depericarping,Output,Fiber,"17,660,850.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Screw Pressing,Output,Fiber,"17,660,850.00",kg,Waste
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,Fibre (biomass),82.848.096,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,Fibre (biomass),6.268.904,kg,Raw Material
+Oil & Gas,Hasanudin,Filter Separator,Input,Filter,233.46,kg,Material
+Oil & Gas,Hasanudin,Penerimaan,Input,Filter,155.64,kg,Material
+Oil & Gas,Hasanudin,Refueller,Input,Filter,389.00,kg,Material
+Oil & Gas,Hasanudin,TPS Limbah B3,Input,Filter,778.20,kg,Material
+Oil & Gas,Ahmad Yani,Filter Separator,Input,filter to filter separator,32.00,kg,Material
+Oil & Gas,Adi Sumarno,Filter Separator,Input,filter to filter separator,32.40,kg,Material
+Oil & Gas,Pare Pare,Genset,Output,Flow Rate,"117,012,000.00",kg,Emisi ke air
+Oil & Gas,Pare Pare,Genset,Output,Flow Rate,"117,012,000.00",kg,Emisi ke air
+Palm Oil_Mill,Asian Agri,FFB,Input,Fluroxypyr,0.51,m3,Pesticide
+Palm Oil_Mill,Asian Agri,Loading Ramp,Input,Fresh Fruit Bunch (FFB),"217,001.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Loading Ramp,Output,Fresh Fruit Bunch (FFB),"217,001.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,FFB,Output,Fresh Fruit Bunch (FFB),"50,437,090.00",kg,Product
+Palm Oil_Mill,Asian Agri,FFB,Output,Fresh Fruit Bunch (FFB),"145,244,240.00",kg,Product
+Palm Oil_Mill,Asian Agri,FFB,Output,Fresh Fruit Bunch (FFB),"21,320,000.00",kg,Product
+Palm Oil_Mill,Asian Agri,Sterilization Station,Input,Fresh Fruit Bunch (FFB),"217,001.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Digester,Input,Fruitlet,"130,201.00",kg,Raw Material
+Palm Oil_Mill,Asian Agri,Threshing Station,Output,Fruitlet,"130,200,580.00",kg,Waste
+Palm Oil_Mill,Asian Agri,WTP,Input,Garam (NaCl),9.500.00,kg,Raw material
+Palm Oil_Mill,Asian Agri,FFB,Input,Garlon 480 EC (triklopir butoxsy ethyester 480 gr/l),0.69,m3,Pesticide
+Oil & Gas,Pare Pare,Genset,Output,Gas Temperature,"117,012,000.00",kg,Emisi ke air
+Oil & Gas,Pare Pare,Genset,Output,Gas Temperature,"122,584,000.00",kg,Emisi ke air
+Palm Oil_Mill,Asian Agri,FFB,Output,Glyphosate (s),20.377.87,kg,Emission
+Palm Oil_Mill,Asian Agri,FFB,Output,Glyphosate (s),4.835.87,kg,Emission
+Palm Oil_Mill,Asian Agri,FFB,Input,Ground magnesium limestone (dolomite),130.000.34,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,Growth hormone PPK,2.095.00,pcs,Pesticide
+Palm Oil_Mill,Asian Agri,Boiler,Output,HCl,"33,080.00",kg,Emission
+Palm Oil_Refinery,Apical,WTP,Input,HCl 32%,0.01,m3,BBM
+Palm Oil_Mill,Asian Agri,FFB,Input,Herbicide; CENTA-BRAS; META PRIMA 20 WDG,921.60,kg,Pesticide
+Palm Oil_Mill,Asian Agri,Boiler,Output,HF,120.00,kg,Emission
+Palm Oil_Mill,Asian Agri,FFB,Input,Hi Kay,55.864.00,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,HI-KEY 13.6.27.4,105.033.50,kg,Fertilizer
+Oil & Gas,Maos,Kolam Limbah,Output,ic,0.04,kg,Waste
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,Kalium Hidroksida,60.00,kg,Raw Material
+Palm Oil_Mill,Asian Agri,FFB,Input,Kenra floroksipir 288 gr/l,0.04,m3,Pesticide
+Oil & Gas,Maos,Perkantoran,Input,Kertas,260.00,kg,Material
+Oil & Gas,Cilacap,Perkantoran,Output,Kertas bekas,"1,479.28",kg,Waste
+Oil & Gas,FT Rewulu,Perkantoran,Output,Kertas bekas,1.73,kg,Waste
+Oil & Gas,Boyolali,Perkantoran,Output,Kertas bekas,440.00,kg,Waste
+Palm Oil_Mill,Asian Agri,FFB,Input,Kieserite,897.579.50,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,Kieserite,64.521.60,kg,Fertilizer
+Oil & Gas,Adi Sucipto,Perkantoran,Input,Konsumsi Anorganik,1.00,kg,Material
+Oil & Gas,Hasanudin,Perkantoran,Input,Konsumsi Anorganik,1.00,kg,Material
+Oil & Gas,Adi Sucipto,Use Stage,Input,Konsumsi Anorganik,1.00,kg,Material
+Oil & Gas,Adi Sucipto,Perkantoran,Input,Konsumsi Organik,0.69,kg,Material
+Oil & Gas,Hasanudin,Perkantoran,Input,Konsumsi Organik,30.65,kg,Material
+Oil & Gas,Adi Sucipto,Use Stage,Input,Konsumsi Organik,0.69,kg,Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,Kopolimer poliakrilamida anionik bobot molekul tinggi,5.00,kg,Raw Material
+Palm Oil_Refinery,Apical,WTP,Input,Kuridine 301,0.00,m3,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Kuridine 310,0.00,m3,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Kuriverter IK 110,17.87,kg,BBM
+Oil & Gas,Ahmad Yani,Perkantoran,Input,Lampu,17.90,kg,Material
+Oil & Gas,Cilacap,Perkantoran,Output,Lampu TL bekas,12.00,kg,Waste
+Oil & Gas,FT Rewulu,Perkantoran,Output,Lampu TL bekas,12.00,kg,Waste
+Oil & Gas,Pare Pare,Genset,Output,Listrik from Genset to Pompa,"3,853,295,853.00",kWh,Product
+Oil & Gas,FT Rewulu,Genset,Input,lube oil,97,kg,Bahan Kimia
+Oil & Gas,Ahmad Yani,Genset,Input,lube oil,17.00,kg,Material
+Oil & Gas,Adi Sumarno,Genset,Input,lube oil,0.21,kg,Material
+Oil & Gas,Hasanudin,Genset,Input,lube oil,0.18,m3,Material
+Oil & Gas,Maos,Genset,Input,lube oil,289.00,kg,Material
+Oil & Gas,Maos,Mobil Tangki,Input,lube oil,"15,300.00",kg,Material
+Oil & Gas,Maos,Pompa,Input,lube oil,400.00,kg,Material
+Oil & Gas,Hasanudin,Pompa,Input,lube oil,0.05,m3,Material
+Oil & Gas,Hasanudin,Pompa,Input,lube oil,0.02,m3,Material
+Oil & Gas,Ahmad Yani,Refueller,Input,lube oil,"29,281.00",kg,Material
+Oil & Gas,Adi Sumarno,Refueller,Input,lube oil,589.68,kg,Material
+Oil & Gas,Hasanudin,Refueller,Input,lube oil,1.08,m3,Material
+Oil & Gas,Hasanudin,TPS Limbah B3,Input,lube oil,1.33,m3,Material
+Oil & Gas,Pare Pare,Genset,Input,lube oil,"108,9",m3,Raw Material
+Oil & Gas,Makasar,Genset,Input,lube oil,0.08,m3,Raw Material
+Oil & Gas,Makasar,Mobil Tangki,Input,lube oil,6.81,m3,Raw Material
+Oil & Gas,Cilacap,Genset,Output,lube oil (waste),97.00,kg,Waste
+Oil & Gas,FT Rewulu,Genset,Output,lube oil (waste),97.00,kg,Waste
+Oil & Gas,Adi Sucipto,Genset,Output,lube oil (waste),230.00,kg,Waste
+Oil & Gas,Hasanudin,Genset,Output,lube oil (waste),0.18,m3,Waste
+Oil & Gas,Hasanudin,Pompa,Output,lube oil (waste),0.05,m3,Waste
+Oil & Gas,Hasanudin,Refueller,Output,lube oil (waste),1.08,m3,Waste
+Palm Oil_Mill,Bumitama Gunajaya,Digester,Output,Methana ke Udara,658.48,kg,Emisi ke air
+Oil & Gas,Adi Sumarno,Genset,Output,Methane (CH4),2.08,kg,Emisi
+Oil & Gas,FT Rewulu,Genset,Output,Methane (CH4),0.84,kg,Emisi
+Oil & Gas,Cilacap,Mobil Tangki,Output,Methane (CH4),"9,072.58",kg,Emisi
+Oil & Gas,Adi Sumarno,Refueller,Output,Methane (CH4),0.60,kg,Emisi
+Oil & Gas,Ahmad Yani,Use Stage,Output,Methane (CH4),"212,451.00",kg,Emisi
+Oil & Gas,Adi Sucipto,Use Stage,Output,Methane (CH4),212.98,kg,Emisi
+Oil & Gas,Adi Sumarno,Use Stage,Output,Methane (CH4),90.52,kg,Emisi
+Oil & Gas,Bitung,Use Stage,Output,Methane (CH4),"284,000,000.00",kg,Emisi
+Oil & Gas,Cilacap,Use Stage,Output,Methane (CH4),"266,378.00",kg,Emisi
+Oil & Gas,FT Rewulu,Use Stage,Output,Methane (CH4),"267,000.00",kg,Emisi
+Oil & Gas,Makasar,Use Stage,Output,Methane (CH4),"287,000.00",kg,Emisi
+Oil & Gas,Boyolali,Use Stage,Output,Methane (CH4),"179,000.00",kg,Emisi
+Oil & Gas,Hasanudin,Genset,Output,Methane (CH4),325.00,kg,Emisi ke air
+Oil & Gas,Maos,Genset,Output,Methane (CH4),0.10,kg,Emisi ke air
+Oil & Gas,Hasanudin,Refueller,Output,Methane (CH4),8.50,kg,Emisi ke air
+Palm Oil_Mill,Bumitama Gunajaya,Digester,Input,Methane (CH4),4.220.414,kg,Raw Material
+Oil & Gas,Adi Sucipto,Use Stage,Output,Methane (CH4),121.89,kg,Waste
+Palm Oil_Mill,Asian Agri,FFB,Input,Methyl metsulfuron,0.24,m3,Pesticide
+Palm Oil_Refinery,Apical,WTP,Input,Microbe Lift IND,0.67,m3,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Microbe Lift SA,0.31,m3,BBM
+Oil & Gas,Hasanudin,Kolam Limbah,Output,Minyak & Lemak,0.63,kg,Emisi ke air
+Oil & Gas,Hasanudin,Oil Catcher,Output,Minyak & Lemak,2.17,kg,Emisi ke air
+Oil & Gas,Cilacap,Oil Catcher,Output,Minyak & Lemak,3.62,kg,Emisi ke air
+Oil & Gas,FT Rewulu,Oil Catcher,Output,Minyak & Lemak,2.04,kg,Emisi ke air
+Oil & Gas,Boyolali,Oil Catcher,Output,Minyak & Lemak,0.04,kg,Emisi ke air
+Oil & Gas,Bitung,Oil Catcher,Output,Minyak & Lemak,"286,475,999,999,999.00",kg,Emisi ke air
+Oil & Gas,Makasar,Oil Catcher,Output,Minyak & Lemak,0.23,kg,Emisi ke air
+Oil & Gas,Cilacap,WTP,Output,Minyak & Lemak,52.36,kg,Emisi ke air
+Palm Oil_Mill,Asian Agri,FFB,Output,Minyak & Lemak,"3,326.70",kg,Waste
+Palm Oil_Mill,Asian Agri,Boiler,Output,Nitrogen Dioxide (NO2),"5,390.00",kg,Emission
+Palm Oil_Mill,Asian Agri,Genset,Output,Nitrogen Dioxide (NO2),346.16,kg,Emission
+Oil & Gas,Boyolali,Genset,Output,Nitrogen Oxide (NO),0.70,kg,Emisi
+Oil & Gas,FT Rewulu,Genset,Output,Nitrogen Oxide (NO),614.00,kg,Emisi
+Oil & Gas,Cilacap,Mobil Tangki,Output,Nitrogen Oxide (NO),"8,487.25",kg,Emisi
+Oil & Gas,Ahmad Yani,Genset,Output,Nitrogen Oxides (NOx),381.00,mg/Nm3,Emisi
+Oil & Gas,Adi Sucipto,Genset,Output,Nitrogen Oxides (NOx),313.84,kg,Emisi
+Oil & Gas,Adi Sumarno,Genset,Output,Nitrogen Oxides (NOx),61.45,kg,Emisi
+Oil & Gas,Makasar,Genset,Output,Nitrogen Oxides (NOx),938.36,kg,Emisi
+Oil & Gas,Bitung,Genset,Output,Nitrogen Oxides (NOx),"573,338,304.00",kg,Emisi
+Oil & Gas,Adi Sucipto,Mobil Tangki,Output,Nitrogen Oxides (NOx),449.00,kg,Emisi
+Oil & Gas,Adi Sumarno,Refueller,Output,Nitrogen Oxides (NOx),449.00,kg,Emisi
+Oil & Gas,Maos,Genset,Output,Nitrogen Oxides (NOx),61.80,kg,Emisi ke air
+Oil & Gas,Hasanudin,Genset,Output,Nitrogen Oxides (NOx),30.40,kg,Emisi ke air
+Oil & Gas,Hasanudin,Refueller,Output,Nitrogen Oxides (NOx),"6,282.20",kg,Emisi ke air
+Oil & Gas,Adi Sucipto,Genset,Output,Nitrogen Oxides (NOx),12.63,kg,Waste
+Oil & Gas,Adi Sucipto,Perkantoran,Output,Non-hazardous waste,1.69,kg,Waste
+Oil & Gas,Adi Sucipto,Use Stage,Output,Non-hazardous waste,1.69,kg,Waste
+Palm Oil_Mill,Asian Agri,FFB,Input,NPK,217.817.15,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,NPK,398.513.35,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,NPK,380.608.80,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,Depericarping,Input,Nut,"17,588,180.00",kg,Raw Material
+Palm Oil_Mill,Asian Agri,Depericarping,Output,Nut,"17,588,180.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Ripple Mill,Input,Nut,"17,588,180.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Screw Pressing,Output,Nut,"17,588,180.00",kg,Waste
+Oil & Gas,Maos,Oil Catcher,Output,oil,5.42,kg,Material
+Oil & Gas,Ahmad Yani,Kolam Limbah,Output,oil,0.00,kg,Waste
+Oil & Gas,Adi Sumarno,Kolam Limbah,Output,oil,0.00,kg,Waste
+Oil & Gas,Maos,Kolam Limbah,Output,oil,0.00,kg,Waste
+Oil & Gas,Ahmad Yani,Oil Catcher,Output,oil,0.00,kg,Waste
+Oil & Gas,Adi Sucipto,Oil Catcher,Output,oil,0.20,kg,Waste
+Oil & Gas,Adi Sucipto,Oil Catcher,Output,oil,0.99,kg,Waste
+Oil & Gas,Adi Sumarno,Oil Catcher,Output,oil,5.27,kg,Waste
+Oil & Gas,Pare Pare,Genset,Output,Oxygen (O2),"941,668,000.00",kg,Emisi ke air
+Oil & Gas,Pare Pare,Genset,Output,Oxygen (O2),"963,956,000.00",kg,Emisi ke air
+Palm Oil_Mill,Asian Agri,WTP,Input,P-1018/BC-009 RWC,122.48,kg,Raw material
+Palm Oil_Refinery,Apical,WTP,Input,PAC,192.48,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,PAC,25.88,kg,BBM
+Oil & Gas,Maos,Kolam Limbah,Output,Packaging Kaporit,3.00,kg,Waste
+Palm Oil_Mill,Asian Agri,Ripple Mill,Output,Palm Kernels,"8,826.00",kg,Waste
+Oil & Gas,Cilacap,Genset,Output,Particulate,40.85,kg,Emisi
+Oil & Gas,FT Rewulu,Genset,Output,Particulate,43.70,kg,Emisi
+Oil & Gas,Boyolali,Genset,Output,Particulate,0.10,kg,Emisi
+Oil & Gas,Boyolali,Genset,Output,Particulate,0.10,kg,Emisi
+Oil & Gas,Cilacap,Mobil Tangki,Output,Particulate,175.12,kg,Emisi
+Oil & Gas,Hasanudin,Genset,Output,Particulate,0.13,kg,Emisi ke air
+Oil & Gas,Hasanudin,Refueller,Output,Particulate,441.60,kg,Emisi ke air
+Palm Oil_Mill,Asian Agri,Boiler,Output,Particulate,"179,470.00",kg,Emission
+Palm Oil_Mill,Asian Agri,Genset,Output,Particulate,17.52,kg,Emission
+Oil & Gas,Makasar,Genset,Output,Particulate Matter (PM10),5.63,kg,Emisi
+Oil & Gas,Pare Pare,Genset,Output,Particulates (PM),"3,443,496,000.00",kg,Emisi ke air
+Oil & Gas,Pare Pare,Genset,Output,Particulates (PM),"2,301,236,000.00",kg,Emisi ke air
+Oil & Gas,Bitung,Genset,Output,Particulates (PM) 10,"40,303,872.00",kg,Emisi
+Oil & Gas,Ahmad Yani,Genset,Output,Particulates. unspecified,22.00,mg/Nm3,Emisi
+Oil & Gas,Adi Sucipto,Genset,Output,Particulates. unspecified,22.06,kg,Emisi
+Oil & Gas,Adi Sumarno,Genset,Output,Particulates. unspecified,4.30,kg,Emisi
+Oil & Gas,Adi Sucipto,Mobil Tangki,Output,Particulates. unspecified,31.60,kg,Emisi
+Oil & Gas,Adi Sumarno,Refueller,Output,Particulates. unspecified,31.60,kg,Emisi
+Oil & Gas,Maos,Genset,Output,Particulates. unspecified,4.30,kg,Emisi ke air
+Oil & Gas,Adi Sucipto,Genset,Output,Particulates. unspecified,0.89,kg,Waste
+Palm Oil_Mill,Asian Agri,FFB,Input,Perfektan 425 EC,0.02,m3,Pesticide
+Oil & Gas,Maos,Penerimaan,Input,Plastik,3.00,kg,Material
+Palm Oil_Mill,Asian Agri,FFB,Input,Potash (MOP),819.018.40,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,Boiler,Input,Pressed Empty Fruit Bunch,"1,651.52",kg,Energy
+Palm Oil_Mill,Asian Agri,Segregation Station,Output,Pressed Empty Fruit Bunch,"1,651,520.00",kg,Product
+Oil & Gas,Hasanudin,Filter Separator,Input,rainwater,64.45,m3,Material
+Oil & Gas,Hasanudin,Penerimaan,Input,rainwater,20.23,m3,Material
+Oil & Gas,Hasanudin,Pompa,Input,rainwater,24.27,m3,Material
+Oil & Gas,Hasanudin,Refueller,Input,rainwater,23.45,m3,Material
+Oil & Gas,Hasanudin,Storage Tank,Input,rainwater,96.10,m3,Material
+Oil & Gas,Maos,Storage Tank,Input,rainwater,726.00,kg,Material
+Oil & Gas,Bitung,Storage Tank,Output,Refinery sludge,"21514,3",kg,Emisi ke air
+Oil & Gas,Makasar,Storage Tank,Output,Refinery sludge,"57,700.00",kg,Waste
+Oil & Gas,Maos,Storage Tank,Output,Refinery sludge,"38,200.00",kg,Waste
+Palm Oil_Refinery,Apical,WTP,Input,Sodium Metabisulfite (SMBS),2.98,kg,BBM
+Palm Oil_Mill,Asian Agri,Boiler,Output,Steam,"125,633,900.00",kg,Energy
+Palm Oil_Mill,Asian Agri,Sterilization Station,Input,Steam,"40,997.00",kg,Energy
+Palm Oil_Refinery,Apical,Power Plant,Output,Steam (produced from CFB Boiler. Superheater),"1,183.86",kg,Product
+Palm Oil_Mill,Asian Agri,Sterilization Station,Output,Sterilized Bunches,"217,001.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Threshing Station,Input,Sterilized Bunches,"217,001.00",kg,Raw material
+Oil & Gas,Pare Pare,Genset,Output,Sulfur Dioxide (SO2),"1,654,884,000.00",kg,Emisi ke air
+Oil & Gas,Pare Pare,Genset,Output,Sulfur Dioxide (SO2),"3,125,892,000.00",kg,Emisi ke air
+Palm Oil_Mill,Asian Agri,Boiler,Output,Sulfur Dioxide (SO2),"125,633,000.00",kg,Emission
+Palm Oil_Mill,Asian Agri,Genset,Output,Sulfur Dioxide (SO2),1.91,kg,Emission
+Oil & Gas,Cilacap,Genset,Output,Sulfur Oxide (SO),40.85,kg,Emisi
+Oil & Gas,FT Rewulu,Genset,Output,Sulfur Oxide (SO),40.80,kg,Emisi
+Oil & Gas,Cilacap,Mobil Tangki,Output,Sulfur Oxide (SO),"129,064.75",kg,Emisi
+Oil & Gas,Ahmad Yani,Genset,Output,Sulfur Oxides (SOx),0.99,mg/Nm3,Emisi
+Oil & Gas,Adi Sucipto,Genset,Output,Sulfur Oxides (SOx),20.64,kg,Emisi
+Oil & Gas,Makasar,Genset,Output,Sulfur Oxides (SOx),4.99,kg,Emisi
+Oil & Gas,Bitung,Genset,Output,Sulfur Oxides (SOx),"37,703,232.00",kg,Emisi
+Oil & Gas,Adi Sucipto,Mobil Tangki,Output,Sulfur Oxides (SOx),2.95,kg,Emisi
+Oil & Gas,Adi Sumarno,Refueller,Output,Sulfur Oxides (SOx),2.95,kg,Emisi
+Oil & Gas,Maos,Genset,Output,Sulfur Oxides (SOx),4.10,kg,Emisi ke air
+Oil & Gas,Hasanudin,Refueller,Output,Sulfur Oxides (SOx),413.10,kg,Emisi ke air
+Oil & Gas,Hasanudin,Genset,Output,Sulfur Oxides (SOx),"15,881.60",kg,Waste
+Oil & Gas,Adi Sucipto,Genset,Output,Sulfur Oxides (SOx),0.83,kg,Waste
+Oil & Gas,Cilacap,Oil Catcher,Output,TOC,17.50,kg,Emisi ke air
+Oil & Gas,Boyolali,Oil Catcher,Output,TOC,0.17,kg,Emisi ke air
+Oil & Gas,Bitung,Oil Catcher,Output,TOC,"11,901,364.00",kg,Emisi ke air
+Oil & Gas,Hasanudin,Oil Catcher,Output,TOC,1.13,kg,Emisi ke air
+Oil & Gas,Maos,Oil Catcher,Output,TOC,21.20,kg,Emisi ke air
+Oil & Gas,FT Rewulu,Oil Catcher,Output,TOC,9.13,kg,Emisi ke air
+Oil & Gas,Makasar,Oil Catcher,Output,TOC,"138,000.00",kg,Emisi ke air
+Oil & Gas,Cilacap,WTP,Output,TOC,213.58,kg,Emisi ke air
+Oil & Gas,Ahmad Yani,Oil Catcher,Output,TOC,0.04,kg,Waste
+Oil & Gas,Adi Sucipto,Oil Catcher,Output,TOC,0.61,kg,Waste
+Oil & Gas,Adi Sucipto,Oil Catcher,Output,TOC,2.33,kg,Waste
+Oil & Gas,Adi Sumarno,Oil Catcher,Output,TOC,7.09,kg,Waste
+Palm Oil_Refinery,Apical,Power Plant,Output,Total Emissions,386.83,tCO2e,Product
+Oil & Gas,Adi Sumarno,Perkantoran,Input,Total non-hazardous waste,905.20,kg,Material
+Palm Oil_Mill,Asian Agri,FFB,Input,Triclopyr,0.06,m3,Pesticide
+Palm Oil_Mill,Asian Agri,FFB,Input,Triple superphosphate,16.302.00,kg,Fertilizer
+Oil & Gas,Hasanudin,Kolam Limbah,Output,TSS,1.92,kg,Emisi ke air
+Palm Oil_Refinery,Apical,WTP,Input,Urea,30.26,kg,BBM
+Oil & Gas,Cilacap,Gas Turbine,Output,VOC,"1,181,056.00",kg,Emisi
+Oil & Gas,Cilacap,HRSG,Output,VOC,"467,439.40",kg,Emisi
+Oil & Gas,FT Rewulu,Pompa,Output,VOC,"467,000.00",kg,Emisi
+Oil & Gas,Adi Sucipto,Pompa,Output,VOC,"1,400.87",kg,Emisi
+Oil & Gas,Adi Sucipto,Storage Tank,Output,VOC,"2,467,440.00",kg,Emisi
+Oil & Gas,FT Rewulu,Storage Tank,Output,VOC,"1,180,000.00",kg,Emisi
+Oil & Gas,Makasar,Storage Tank,Output,VOC,"138,000.00",kg,Emisi
+Oil & Gas,Boyolali,Storage Tank,Output,VOC,"1,900,000.00",kg,Emisi
+Oil & Gas,Boyolali,Storage Tank,Output,VOC,"1,900,000.00",kg,Emisi
+Oil & Gas,Bitung,Storage Tank,Output,VOC,"9707,2",kg,Emisi
+Oil & Gas,Maos,Mobil Tangki,Output,VOC,"1,620,000.00",kg,Emisi ke air
+Oil & Gas,Maos,Pompa,Output,VOC,"1,620,000.00",kg,Emisi ke air
+Oil & Gas,Hasanudin,Pompa,Output,VOC,880.00,kg,Emisi ke air
+Oil & Gas,Maos,Storage Tank,Output,VOC,"1,250.00",kg,Emisi ke air
+Oil & Gas,Hasanudin,Storage Tank,Output,VOC,1.73,kg,Emisi ke air
+Oil & Gas,Adi Sucipto,Filter Separator,Output,VOC,71.62,kg,Waste
+Oil & Gas,Adi Sumarno,Filter Separator,Output,VOC,23.48,kg,Waste
+Oil & Gas,Adi Sucipto,Storage Tank,Output,VOC,53.67,kg,Waste
+Oil & Gas,Adi Sumarno,Storage Tank,Output,VOC,74.51,kg,Waste
+Oil & Gas,Bitung,Filling Shed Pump,Output,waste,15.00,kg,Emisi ke air
+Oil & Gas,Pare Pare,Genset,Output,waste,"1,203,552,000.00",kg,Emisi ke air
+Oil & Gas,Pare Pare,Genset,Output,waste,"1,203,552,000.00",kg,Emisi ke air
+Oil & Gas,Bitung,Mobil Tangki,Output,waste,50.00,kg,Emisi ke air
+Oil & Gas,Bitung,Perkantoran,Output,waste,"3,156.00",kg,Emisi ke air
+Oil & Gas,Hasanudin,Genset,Input,waste,0.50,kg,Energi
+Oil & Gas,Hasanudin,Filter Separator,Input,waste,2.00,kg,Material
+Oil & Gas,Ahmad Yani,Filter Separator,Output,waste,32.00,kg,Material
+Oil & Gas,Adi Sumarno,Filter Separator,Output,waste,32.40,kg,Material
+Oil & Gas,Maos,Genset,Input,waste,300.00,kg,Material
+Oil & Gas,Hasanudin,Genset,Output,waste,0.50,kg,Material
+Oil & Gas,Hasanudin,Penerimaan,Input,waste,1.50,kg,Material
+Oil & Gas,Maos,Perkantoran,Input,waste,"3,600.00",kg,Material
+Oil & Gas,Ahmad Yani,Perkantoran,Input,waste,399.00,kg,Material
+Oil & Gas,Ahmad Yani,Perkantoran,Input,waste,"1,767.00",kg,Material
+Oil & Gas,Maos,Pompa,Input,waste,300.00,kg,Material
+Oil & Gas,Adi Sumarno,Pompa,Output,waste,2.30,kg,Material
+Oil & Gas,Ahmad Yani,Pompa,Output,waste,8.00,kg,Material
+Oil & Gas,Adi Sumarno,Pompa,Input,waste,2.30,kg,Material
+Oil & Gas,Ahmad Yani,Pompa,Input,waste,8.00,kg,Material
+Oil & Gas,Adi Sumarno,Pompa,Input,waste,0.90,kg,Material
+Oil & Gas,Hasanudin,Pompa,Input,waste,1.00,kg,Material
+Oil & Gas,Hasanudin,Refueller,Input,waste,2.00,kg,Material
+Oil & Gas,Adi Sumarno,Storage Tank,Input,waste,1.50,kg,Material
+Oil & Gas,Hasanudin,Storage Tank,Input,waste,3.00,kg,Material
+Oil & Gas,Hasanudin,TPS Limbah B3,Input,waste,10.00,kg,Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,waste,13.633.396,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,waste,1.031.604,kg,Raw Material
+Oil & Gas,Makasar,Filling Shed Pump,Output,waste,224.00,kg,Waste
+Oil & Gas,Cilacap,Filter Separator,Output,waste,58.00,kg,Waste
+Oil & Gas,FT Rewulu,Filter Separator,Output,waste,58.00,kg,Waste
+Oil & Gas,Hasanudin,Filter Separator,Output,waste,233.46,kg,Waste
+Oil & Gas,Hasanudin,Filter Separator,Output,waste,2.00,kg,Waste
+Oil & Gas,Makasar,Genset,Output,waste,224.00,kg,Waste
+Oil & Gas,Adi Sucipto,Genset,Output,waste,2.30,kg,Waste
+Oil & Gas,Maos,Genset,Output,waste,300.00,kg,Waste
+Oil & Gas,Ahmad Yani,Kolam Limbah,Output,waste,0.00,kg,Waste
+Oil & Gas,Adi Sumarno,Kolam Limbah,Output,waste,0.00,kg,Waste
+Oil & Gas,Maos,Kolam Limbah,Output,waste,0.02,kg,Waste
+Oil & Gas,Maos,Penerimaan,Output,waste,3.00,kg,Waste
+Oil & Gas,Makasar,Penerimaan,Output,waste,224.00,kg,Waste
+Oil & Gas,Hasanudin,Penerimaan,Output,waste,155.64,kg,Waste
+Oil & Gas,Hasanudin,Penerimaan,Output,waste,1.50,kg,Waste
+Oil & Gas,Cilacap,Perkantoran,Output,waste,"10,848.06",kg,Waste
+Oil & Gas,FT Rewulu,Perkantoran,Output,waste,"10,800.00",kg,Waste
+Oil & Gas,Boyolali,Perkantoran,Output,waste,"5,950,000.00",kg,Waste
+Oil & Gas,Boyolali,Perkantoran,Output,waste,"5,950,000.00",kg,Waste
+Oil & Gas,Makasar,Perkantoran,Output,waste,"4,070.00",kg,Waste
+Oil & Gas,Ahmad Yani,Perkantoran,Output,waste,"2,166.00",kg,Waste
+Oil & Gas,Adi Sumarno,Perkantoran,Output,waste,905.20,kg,Waste
+Oil & Gas,Cilacap,Perkantoran,Output,waste,"1,579.39",kg,Waste
+Oil & Gas,FT Rewulu,Perkantoran,Output,waste,"1,580.00",kg,Waste
+Oil & Gas,Boyolali,Perkantoran,Output,waste,"87,200.00",kg,Waste
+Oil & Gas,Boyolali,Perkantoran,Output,waste,"87,200.00",kg,Waste
+Oil & Gas,Hasanudin,Perkantoran,Output,waste,1.00,kg,Waste
+Oil & Gas,Boyolali,Perkantoran,Output,waste,"1,840,000.00",kg,Waste
+Oil & Gas,Boyolali,Perkantoran,Output,waste,"1,840,000.00",kg,Waste
+Oil & Gas,Hasanudin,Perkantoran,Output,waste,3.07,kg,Waste
+Oil & Gas,Maos,Pompa,Output,waste,300.00,kg,Waste
+Oil & Gas,Adi Sumarno,Pompa,Output,waste,0.90,kg,Waste
+Oil & Gas,Hasanudin,Pompa,Output,waste,1.00,kg,Waste
+Oil & Gas,Hasanudin,Pompa,Output,waste,1.00,kg,Waste
+Oil & Gas,Hasanudin,Pompa,Output,waste,3.07,kg,Waste
+Oil & Gas,Makasar,Pompa,Output,waste,224.00,kg,Waste
+Oil & Gas,Hasanudin,Refueller,Output,waste,389.00,kg,Waste
+Oil & Gas,Hasanudin,Refueller,Output,waste,2.00,kg,Waste
+Oil & Gas,Makasar,Storage Tank,Output,waste,224.00,kg,Waste
+Oil & Gas,Adi Sumarno,Storage Tank,Output,waste,1.50,kg,Waste
+Oil & Gas,Hasanudin,Storage Tank,Output,waste,3.00,kg,Waste
+Palm Oil_Mill,Asian Agri,Boiler,Input,waste,"17,660,850.00",kg,Energy
+Palm Oil_Mill,Asian Agri,Ripple Mill,Output,waste,"6,007.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Ripple Mill,Output,waste,"2,754,310.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Kolam Limbah,Input,Waste water (from Digester),160.00,kg,Raw material
+Palm Oil_Refinery,Apical,WTP,Input,wastewater,207.22,m3,BBM
+Oil & Gas,Boyolali,Kolam Limbah,Output,wastewater,575.00,kg,Emisi ke air
+Oil & Gas,Hasanudin,Oil Catcher,Output,wastewater,415.88,m3,Emisi ke air
+Oil & Gas,Boyolali,Oil Catcher,Output,wastewater,375.00,kg,Emisi ke air
+Oil & Gas,FT Rewulu,Oil Catcher,Output,wastewater,709.00,m3,Emisi ke air
+Oil & Gas,Bitung,Oil Catcher,Output,wastewater,"45,6",m3,Emisi ke air
+Oil & Gas,Makasar,Oil Catcher,Output,wastewater,85.70,m3,Emisi ke air
+Oil & Gas,FT Rewulu,WTP,Output,wastewater,"1,840.00",m3,Emisi ke air
+Oil & Gas,Maos,Kolam Limbah,Input,wastewater,195.00,kg,Material
+Oil & Gas,Ahmad Yani,Kolam Limbah,Input,wastewater,0.12,kg,Material
+Oil & Gas,Hasanudin,Kolam Limbah,Input,wastewater,232.24,m3,Material
+Oil & Gas,Adi Sumarno,Kolam Limbah,Input,wastewater,54.68,kg,Material
+Oil & Gas,Hasanudin,Kolam Limbah,Output,wastewater,232.24,m3,Material
+Oil & Gas,Maos,Oil Catcher,Output,wastewater,726.00,kg,Material
+Oil & Gas,Ahmad Yani,Oil Catcher,Output,wastewater,0.34,m3,Material
+Oil & Gas,Adi Sumarno,Oil Catcher,Output,wastewater,23.18,m3,Material
+Oil & Gas,Ahmad Yani,Perkantoran,Output,wastewater,"1,001,000.00",kg,Material
+Oil & Gas,Adi Sumarno,Perkantoran,Output,wastewater,54.68,kg,Material
+Oil & Gas,Hasanudin,Perkantoran,Output,wastewater,232.24,m3,Material
+Oil & Gas,Maos,Perkantoran,Output,wastewater,195.00,kg,Material
+Oil & Gas,Ahmad Yani,Refueller,Output,wastewater,"29,281.00",kg,Material
+Oil & Gas,Makasar,Genset,Output,wastewater,58.00,kg,Waste
+Oil & Gas,Bitung,Genset,Output,wastewater,20.00,kg,Waste
+Oil & Gas,Maos,Genset,Output,wastewater,100.00,kg,Waste
+Oil & Gas,Maos,Kolam Limbah,Output,wastewater,195.00,kg,Waste
+Oil & Gas,Ahmad Yani,Kolam Limbah,Output,wastewater,0.12,kg,Waste
+Oil & Gas,Adi Sumarno,Kolam Limbah,Output,wastewater,54.68,kg,Waste
+Oil & Gas,Adi Sumarno,Kolam Limbah,Output,wastewater,54.68,kg,Waste
+Oil & Gas,Makasar,Mobil Tangki,Output,wastewater,58.00,kg,Waste
+Oil & Gas,Bitung,Mobil Tangki,Output,wastewater,20.00,kg,Waste
+Oil & Gas,Adi Sucipto,Oil Catcher,Output,wastewater,"122,935.64",kg,Waste
+Oil & Gas,Adi Sucipto,Oil Catcher,Output,wastewater,"122,935.64",kg,Waste
+Oil & Gas,Bitung,Perkantoran,Output,wastewater,"1,748.00",m3,Waste
+Oil & Gas,Adi Sucipto,Perkantoran,Output,wastewater,900.00,kg,Waste
+Oil & Gas,Maos,Pompa,Output,wastewater,100.00,kg,Waste
+Oil & Gas,Cilacap,Storage Tank,Output,wastewater,"14,710.00",kg,Waste
+Oil & Gas,FT Rewulu,Storage Tank,Output,wastewater,"14,700.00",kg,Waste
+Oil & Gas,Adi Sucipto,Storage Tank,Output,wastewater,"14,750.00",kg,Waste
+Oil & Gas,Adi Sucipto,Use Stage,Output,wastewater,900.00,kg,Waste
+Palm Oil_Mill,Asian Agri,Continuous Settling Tank (CST),Output,wastewater,"23,231,270.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Digester,Output,wastewater,"154,331.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Digester,Input,wastewater,"154,331.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Digester,Input,wastewater,"21,027,270.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Segregation Station,Output,wastewater,"154,331.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Sludge Tank & Separator,Input,wastewater,"23,231,270.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Sludge Tank & Separator,Output,wastewater,"21,027,270.00",kg,Waste
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,Water (for process Boiler),1.625.316,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,Water (for process Boiler),122.98,kg,Raw Material

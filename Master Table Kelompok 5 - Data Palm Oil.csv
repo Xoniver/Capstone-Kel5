@@ -1,0 +1,175 @@
+Inventory_Name,Area,Unit_Proses,Tipe,Material,Nilai,Satuan,Kategori
+Palm Oil_Refinery,Apical,WTP,Input,Anti Scallant N-5005,9.82,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Anti Scallant PC-191T,895.00,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Antifoam,0.82,m3,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Biodicde Nalco 3935,10.33,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Cartridge Filter,6.19,pcs,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Caustic Liquid 48%,0.01,m3,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Caustic Soda Flake 98%,92.85,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Caustic soda liquid,99.16,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,chemicals,6.56,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,chemicals,816.00,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,chemicals,879.00,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Citric Acid,4.98,kg,BBM
+Palm Oil_Refinery,Apical,Power Plant,Input,Coal,203.583.907,kg,BBM
+Palm Oil_Refinery,Apical,Power Plant,Input,Diesel,0.14,m3,BBM
+Palm Oil_Refinery,Apical,WTP,Input,electricity,1.451.607,kWh,Energi
+Palm Oil_Refinery,Apical,Power Plant,Output,electricity,130.194.228,kWh,Product
+Palm Oil_Refinery,Apical,KCP,Input,electricity,17.759.300,kWh,Energi
+Palm Oil_Refinery,Apical,Power Plant,Input,electricity,33.749.119,kWh,Energi
+Palm Oil_Refinery,Apical,WTP,Input,electricity,6.840.411,kWh,Energi
+Palm Oil_Refinery,Apical,WTP,Output,Feed Water,207.22,m3,Product
+Palm Oil_Refinery,Apical,Power Plant,Input,Feed Water,799.97,m3,BBM
+Palm Oil_Refinery,Apical,WTP,Output,Feed Water,1.990.825,m3,Product
+Palm Oil_Refinery,Apical,WTP,Input,HCl 32%,0.01,m3,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Kuridine 301,0.00,m3,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Kuridine 310,0.00,m3,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Kuriverter IK 110,17.87,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Microbe Lift IND,0.67,m3,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Microbe Lift SA,0.31,m3,BBM
+Palm Oil_Refinery,Apical,WTP,Input,PAC,25.88,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,PAC,192.48,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Sodium Metabisulfite (SMBS),2.98,kg,BBM
+Palm Oil_Refinery,Apical,Power Plant,Output,Steam (produced from CFB Boiler. Superheater),"1,183.86",kg,Product
+Palm Oil_Refinery,Apical,Power Plant,Output,Total Emissions,386.83,tCO2e,Product
+Palm Oil_Refinery,Apical,WTP,Input,Urea,30.26,kg,BBM
+Palm Oil_Refinery,Apical,WTP,Input,Waste Water,207.22,m3,BBM
+Palm Oil_Mill,Asian Agri,WTP,Input,Alum/tawas (Al2(SO4)3),19.805.00,kg,Raw material
+Palm Oil_Mill,Asian Agri,Boiler,Output,Ammonia,80.00,kg,Emisi
+Palm Oil_Mill,Asian Agri,FFB,Input,Ammonium Sulfate (ZA),4.963.466.19,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,Ammonium Sulfate (ZA),87.198.54,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,Basta,3.29,m3,Pesticide
+Palm Oil_Mill,Asian Agri,Digester,Output,Biogas,"21,027,270.00",kg,Product
+Palm Oil_Mill,Asian Agri,FFB,Input,Borite (HGFB),736.118.00,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,Borite (HGFB),9.818.38,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,Genset,Output,Carbon Monoxide (CO),216.01,kg,Emisi
+Palm Oil_Mill,Asian Agri,WTP,Input,Caustic Soda (NaOH),8.670.00,kg,Raw material
+Palm Oil_Mill,Asian Agri,FFB,Output,Cd (aq),2.70,kg,Emisi
+Palm Oil_Mill,Asian Agri,FFB,Input,chemicals,0.20,m3,Pesticide
+Palm Oil_Mill,Asian Agri,FFB,Input,chemicals,0.84,m3,Pesticide
+Palm Oil_Mill,Asian Agri,FFB,Output,chemicals,1.80,kg,Waste
+Palm Oil_Mill,Asian Agri,FFB,Input,chemicals,1.83,m3,Pesticide
+Palm Oil_Mill,Asian Agri,FFB,Input,chemicals,2.53,m3,Pesticide
+Palm Oil_Mill,Asian Agri,FFB,Input,chemicals,2.72,m3,Pesticide
+Palm Oil_Mill,Asian Agri,FFB,Output,chemicals,31.10,kg,Emisi
+Palm Oil_Mill,Asian Agri,FFB,Output,chemicals,"3,326.70",kg,Waste
+Palm Oil_Mill,Asian Agri,FFB,Input,chemicals,641.986.50,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,Boiler,Output,Chlorine (Cl2),90.00,kg,Emisi
+Palm Oil_Mill,Asian Agri,Sterilization Station,Output,Condensate,"40,997.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Segregation Station,Input,Condensate,"40,996,990.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Clean Oil Tank,Input,CPO,"2,204.00",kg,Product
+Palm Oil_Mill,Asian Agri,Clean Oil Tank,Input,CPO,"41,869.00",kg,Product
+Palm Oil_Mill,Asian Agri,Continuous Settling Tank (CST),Output,CPO,"41,869.00",kg,Product
+Palm Oil_Mill,Asian Agri,Clean Oil Tank,Output,CPO,"44,073.00",kg,Product
+Palm Oil_Mill,Asian Agri,Crude Palm Oil Tank,Output,CPO,"44,073.00",kg,Product
+Palm Oil_Mill,Asian Agri,Crude Palm Oil Tank,Input,CPO,"44,073.00",kg,Product
+Palm Oil_Mill,Asian Agri,Clean Oil Tank,Input,CPO,"1,224,620.00",kg,Product
+Palm Oil_Mill,Asian Agri,Segregation Station,Output,CPO,"1,224,620.00",kg,Product
+Palm Oil_Mill,Asian Agri,Crude Oil Tank,Input,CPO,"32,550,150.00",kg,Product
+Palm Oil_Mill,Asian Agri,Crude Oil Tank,Input,CPO,"32,550,150.00",kg,Product
+Palm Oil_Mill,Asian Agri,Digester,Output,CPO,"32,550,150.00",kg,Product
+Palm Oil_Mill,Asian Agri,Screw Pressing,Output,CPO,"32,550,150.00",kg,Product
+Palm Oil_Mill,Asian Agri,Continuous Settling Tank (CST),Input,CPO,"65,100,270.00",kg,Product
+Palm Oil_Mill,Asian Agri,Crude Oil Tank,Output,CPO,"65,100,270.00",kg,Product
+Palm Oil_Mill,Asian Agri,Sludge Tank & Separator,Output,CPO (from sludge separator),"2,204.00",kg,Product
+Palm Oil_Mill,Asian Agri,FFB,Input,Diesel,127.15,m3,Energy
+Palm Oil_Mill,Asian Agri,FFB,Input,Diesel,377.19,m3,Energy
+Palm Oil_Mill,Asian Agri,Genset,Input,Diesel,"154,331.00",kg,Energy
+Palm Oil_Mill,Asian Agri,Screw Pressing,Input,Digested fruit,"97,650.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Digester,Output,Digested fruit,"97,650.00",kg,Waste
+Palm Oil_Mill,Asian Agri,FFB,Input,Elang isopropil amina glifosat 480 g/l,2.43,m3,Pesticide
+Palm Oil_Mill,Asian Agri,Threshing Station,Input,electricity,5.162.977,kWh,Energy
+Palm Oil_Mill,Asian Agri,Genset,Output,electricity,69.798.00,kWh,Energy
+Palm Oil_Mill,Asian Agri,Segregation Station,Input,Empty fruit bunch,"86,800,390.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Threshing Station,Output,Empty fruit bunch,"86,800,390.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Boiler,Input,Feed Water,"2,754,310.00",kg,Emisi
+Palm Oil_Mill,Asian Agri,WTP,Output,Feed Water,177.327.500,kg,Product
+Palm Oil_Mill,Asian Agri,WTP,Output,Feed Water,233.570.097.48,kg,Product
+Palm Oil_Mill,Asian Agri,WTP,Input,Feed Water,410.860.000,kg,Raw material
+Palm Oil_Mill,Asian Agri,FFB,Input,Fertilizer organic (waste water from kolam Limbah),148.75,m3,Raw material
+Palm Oil_Mill,Asian Agri,Kolam Limbah,Output,Fertilizer organic (waste water from kolam Limbah),"154,331.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Boiler,Input,Fiber,"1,651,520.00",kg,Energy
+Palm Oil_Mill,Asian Agri,Depericarping,Input,Fiber,"17,660,850.00",kg,Raw Material
+Palm Oil_Mill,Asian Agri,Depericarping,Output,Fiber,"17,660,850.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Screw Pressing,Output,Fiber,"17,660,850.00",kg,Waste
+Palm Oil_Mill,Asian Agri,FFB,Input,Fluroxypyr,0.51,m3,Pesticide
+Palm Oil_Mill,Asian Agri,Loading Ramp,Input,Fresh Fruit Bunch (FFB),"217,001.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Loading Ramp,Output,Fresh Fruit Bunch (FFB),"217,001.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Sterilization Station,Input,Fresh Fruit Bunch (FFB),"217,001.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,FFB,Output,Fresh Fruit Bunch (FFB),"21,320,000.00",kg,Product
+Palm Oil_Mill,Asian Agri,FFB,Output,Fresh Fruit Bunch (FFB),"50,437,090.00",kg,Product
+Palm Oil_Mill,Asian Agri,FFB,Output,Fresh Fruit Bunch (FFB),"145,244,240.00",kg,Product
+Palm Oil_Mill,Asian Agri,Digester,Input,Fruitlet,"130,201.00",kg,Raw Material
+Palm Oil_Mill,Asian Agri,Threshing Station,Output,Fruitlet,"130,200,580.00",kg,Waste
+Palm Oil_Mill,Asian Agri,WTP,Input,Garam (NaCl),9.500.00,kg,Raw material
+Palm Oil_Mill,Asian Agri,FFB,Input,Garlon 480 EC (triklopir butoxsy ethyester 480 gr/l),0.69,m3,Pesticide
+Palm Oil_Mill,Asian Agri,FFB,Output,Glyphosate (s),20.377.87,kg,Emisi
+Palm Oil_Mill,Asian Agri,FFB,Output,Glyphosate (s),4.835.87,kg,Emisi
+Palm Oil_Mill,Asian Agri,FFB,Input,Ground magnesium limestone (dolomite),130.000.34,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,Growth hormone PPK,2.095.00,pcs,Pesticide
+Palm Oil_Mill,Asian Agri,Boiler,Output,HCl,"33,080.00",kg,Emisi
+Palm Oil_Mill,Asian Agri,FFB,Input,Herbicide; CENTA-BRAS; META PRIMA 20 WDG,921.60,kg,Pesticide
+Palm Oil_Mill,Asian Agri,Boiler,Output,HF,120.00,kg,Emisi
+Palm Oil_Mill,Asian Agri,FFB,Input,Hi Kay,55.864.00,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,HI-KEY 13.6.27.4,105.033.50,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,Kenra floroksipir 288 gr/l,0.04,m3,Pesticide
+Palm Oil_Mill,Asian Agri,FFB,Input,Kieserite,64.521.60,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,Kieserite,897.579.50,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,Methyl metsulfuron,0.24,m3,Pesticide
+Palm Oil_Mill,Asian Agri,FFB,Output,Minyak & Lemak,"3,326.70",kg,Waste
+Palm Oil_Mill,Asian Agri,Genset,Output,Nitrogen Dioxide (NO2),346.16,kg,Emisi
+Palm Oil_Mill,Asian Agri,Boiler,Output,Nitrogen Dioxide (NO2),"5,390.00",kg,Emisi
+Palm Oil_Mill,Asian Agri,FFB,Input,NPK,217.817.15,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,NPK,380.608.80,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,FFB,Input,NPK,398.513.35,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,Depericarping,Input,Nut,"17,588,180.00",kg,Raw Material
+Palm Oil_Mill,Asian Agri,Ripple Mill,Input,Nut,"17,588,180.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Depericarping,Output,Nut,"17,588,180.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Screw Pressing,Output,Nut,"17,588,180.00",kg,Waste
+Palm Oil_Mill,Asian Agri,WTP,Input,P-1018/BC-009 RWC,122.48,kg,Raw material
+Palm Oil_Mill,Asian Agri,Ripple Mill,Output,Palm Kernels,"8,826.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Genset,Output,Particulate,17.52,kg,Emisi
+Palm Oil_Mill,Asian Agri,Boiler,Output,Particulate,"179,470.00",kg,Emisi
+Palm Oil_Mill,Asian Agri,FFB,Input,Perfektan 425 EC,0.02,m3,Pesticide
+Palm Oil_Mill,Asian Agri,FFB,Input,Potash (MOP),819.018.40,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,Boiler,Input,Pressed Empty Fruit Bunch,"1,651.52",kg,Energy
+Palm Oil_Mill,Asian Agri,Segregation Station,Output,Pressed Empty Fruit Bunch,"1,651,520.00",kg,Product
+Palm Oil_Mill,Asian Agri,Sterilization Station,Input,Steam,"40,997.00",kg,Energy
+Palm Oil_Mill,Asian Agri,Boiler,Output,Steam,"125,633,900.00",kg,Energy
+Palm Oil_Mill,Asian Agri,Threshing Station,Input,Sterilized Bunches,"217,001.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Sterilization Station,Output,Sterilized Bunches,"217,001.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Genset,Output,Sulfur Dioxide (SO2),1.91,kg,Emisi
+Palm Oil_Mill,Asian Agri,Boiler,Output,Sulfur Dioxide (SO2),"125,633,000.00",kg,Emisi
+Palm Oil_Mill,Asian Agri,FFB,Input,Triclopyr,0.06,m3,Pesticide
+Palm Oil_Mill,Asian Agri,FFB,Input,Triple superphosphate,16.302.00,kg,Fertilizer
+Palm Oil_Mill,Asian Agri,Ripple Mill,Output,waste,"6,007.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Ripple Mill,Output,waste,"2,754,310.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Boiler,Input,waste,"17,660,850.00",kg,Energy
+Palm Oil_Mill,Asian Agri,Digester,Input,Waste Water,"154,331.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Digester,Output,Waste Water,"154,331.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Segregation Station,Output,Waste Water,"154,331.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Digester,Input,Waste Water,"21,027,270.00",kg,Raw material
+Palm Oil_Mill,Asian Agri,Sludge Tank & Separator,Output,Waste Water,"21,027,270.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Continuous Settling Tank (CST),Output,Waste Water,"23,231,270.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Sludge Tank & Separator,Input,Waste Water,"23,231,270.00",kg,Waste
+Palm Oil_Mill,Asian Agri,Kolam Limbah,Input,Waste water (from Digester),160.00,kg,Raw material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,Acrylate polymer,103.00,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Genset,Output,Carbon Dioxide (CO2),22.55,kg,Emisi ke Udara
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Output,Carbon Dioxide (CO2),28.57,kg,Emisi ke Udara
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Output,Carbon Dioxide (CO2),129.671.125,kg,Emisi ke Udara
+Palm Oil_Mill,Bumitama Gunajaya,Genset,Output,Carbon Dioxide (CO2),"25.384,54 ",kg,Emisi ke Udara
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,chemicals,30.00,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,chemicals,107.00,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,chemicals,126.00,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Genset,Input,Diesel,"10,105.00",m3,Energi
+Palm Oil_Mill,Bumitama Gunajaya,Genset,Input,Diesel,"11,373.00",m3,Energi
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,Fibre (biomass),6.268.904,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,Fibre (biomass),82.848.096,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,Kalium Hidroksida,60.00,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,Kopolimer poliakrilamida anionik bobot molekul tinggi,5.00,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Digester,Output,Methane (CH4),658.48,kg,Emisi ke Udara
+Palm Oil_Mill,Bumitama Gunajaya,Digester,Input,Methane (CH4),4.220.414,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,waste,1.031.604,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,waste,13.633.396,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,Water (for process Boiler),122.98,kg,Raw Material
+Palm Oil_Mill,Bumitama Gunajaya,Boiler,Input,Water (for process Boiler),1.625.316,kg,Raw Material

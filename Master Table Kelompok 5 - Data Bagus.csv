@@ -1,0 +1,210 @@
+Inventory_Name,Area,Unit_Proses,Tipe,Material,Nilai,Satuan,Kategori
+Oil & Gas,Bitung,Oil Catcher,Output,Minyak & Lemak,0.03,kg,Emisi ke air
+Oil & Gas,Bitung,Storage Tank,Output,Refinery sludge,"21,514.30",kg,Emisi ke air
+Oil & Gas,Bitung,Oil Catcher,Output,TOC,0.12,kg,Emisi ke air
+Oil & Gas,Bitung,Pompa,Output,waste,15.00,kg,Emisi ke air
+Oil & Gas,Bitung,Mobil Tangki,Output,waste,50.00,kg,Emisi ke air
+Oil & Gas,Bitung,Perkantoran,Output,waste,"3,156.00",kg,Emisi ke air
+Oil & Gas,Bitung,Oil Catcher,Output,Waste Water,45.60,m3,Emisi ke air
+Oil & Gas,Bitung,Use Stage,Output,Carbon Dioxide (CO2),"4,020,000,000,000.00",kg,Emisi Ke Udara
+Oil & Gas,Bitung,Genset,Output,Carbon Dioxide (CO2),"88,451.22",kg,Emisi Ke Udara
+Oil & Gas,Bitung,Use Stage,Output,Dinitrogen Monoxide (N2O),"40,700,000.00",kg,Emisi Ke Udara
+Oil & Gas,Bitung,Use Stage,Output,Methane (CH4),"284,000,000.00",kg,Emisi Ke Udara
+Oil & Gas,Bitung,Genset,Output,Nitrogen Oxides (NOx),573.34,kg,Emisi Ke Udara
+Oil & Gas,Bitung,Genset,Output,Particulates (PM) 10,40.30,kg,Emisi Ke Udara
+Oil & Gas,Bitung,Genset,Output,Sulfur Oxides (SOx),37.70,kg,Emisi Ke Udara
+Oil & Gas,Bitung,Storage Tank,Output,VOC,"9,707.20",kg,Emisi Ke Udara
+Oil & Gas,Bitung,Genset,Input,Diesel,"6,237.00",kg,Energi
+Oil & Gas,Bitung,Pompa,Input,electricity,"1,860.00",kWh,Energi
+Oil & Gas,Bitung,Perkantoran,Input,electricity,"3,720.00",kWh,Energi
+Oil & Gas,Bitung,Pompa,Input,electricity,"13,020.00",kWh,Energi
+Oil & Gas,Bitung,Perkantoran,Input,electricity,"16,934.20",kWh,Energi
+Oil & Gas,Bitung,Pompa,Input,electricity,"59,269.70",kWh,Energi
+Oil & Gas,Bitung,Pompa,Input,electricity,"8,467.10",kWh,Energi
+Oil & Gas,Bitung,Perkantoran,Input,Feed Water,"1,748.00",m3,Material
+Oil & Gas,Bitung,Use Stage,Output,BBM,"1,932,423.00",m3,Product
+Oil & Gas,Bitung,Penerimaan,Input,BBM,"1,463,045.00",m3,Raw Material
+Oil & Gas,Bitung,Pompa,Output,Air Limpasan,13.77,m3,Waste
+Oil & Gas,Bitung,Pompa,Output,Air Limpasan,13.77,m3,Waste
+Oil & Gas,Bitung,Storage Tank,Output,Air Limpasan,18.06,m3,Waste
+Oil & Gas,Bitung,Genset,Output,Waste Water,20.00,kg,Waste
+Oil & Gas,Bitung,Mobil Tangki,Output,Waste Water,20.00,kg,Waste
+Oil & Gas,Bitung,Perkantoran,Output,Waste Water,"1,748.00",m3,Waste
+Oil & Gas,Boyolali,Kolam Limbah,Input,chlorine transported,"10,400.00",kg,Bahan Kimia
+Oil & Gas,Boyolali,Kolam Limbah,Input,chlorine transported,"10,400.00",kg,Bahan Kimia
+Oil & Gas,Boyolali,WTP,Output,BOD,0.40,kg,Emisi ke air
+Oil & Gas,Boyolali,WTP,Output,COD,1.24,kg,Emisi ke air
+Oil & Gas,Boyolali,Oil Catcher,Output,Minyak & Lemak,0.04,kg,Emisi ke air
+Oil & Gas,Boyolali,Oil Catcher,Output,TOC,0.17,kg,Emisi ke air
+Oil & Gas,Boyolali,Oil Catcher,Output,Waste Water,375.00,kg,Emisi ke air
+Oil & Gas,Boyolali,Kolam Limbah,Output,Waste Water,575.00,kg,Emisi ke air
+Oil & Gas,Boyolali,Genset,Output,Carbon Dioxide (CO2),25.20,kg,Emisi Ke Udara
+Oil & Gas,Boyolali,Use Stage,Output,Carbon Dioxide (CO2),"3,660,000,000.00",kg,Emisi Ke Udara
+Oil & Gas,Boyolali,Genset,Output,Dinitrogen Monoxide (N2O),0.00,kg,Emisi Ke Udara
+Oil & Gas,Boyolali,Use Stage,Output,Dinitrogen Monoxide (N2O),"56,900.00",kg,Emisi Ke Udara
+Oil & Gas,Boyolali,Use Stage,Output,Methane (CH4),"179,000.00",kg,Emisi Ke Udara
+Oil & Gas,Boyolali,Genset,Output,Nitrogen Oxide (NO),0.70,kg,Emisi Ke Udara
+Oil & Gas,Boyolali,Genset,Output,Particulate,0.10,kg,Emisi Ke Udara
+Oil & Gas,Boyolali,Genset,Output,Particulate,0.10,kg,Emisi Ke Udara
+Oil & Gas,Boyolali,Storage Tank,Output,VOC,"1,900,000.00",kg,Emisi Ke Udara
+Oil & Gas,Boyolali,Storage Tank,Output,VOC,"1,900,000.00",kg,Emisi Ke Udara
+Oil & Gas,Boyolali,Genset,Input,Diesel,1.49,m3,Energi
+Oil & Gas,Boyolali,Genset,Input,Diesel,1.49,m3,Energi
+Oil & Gas,Boyolali,Perkantoran,Input,electricity,"5,760.00",kWh,Energi
+Oil & Gas,Boyolali,Pompa,Input,electricity,"13,400.00",kWh,Energi
+Oil & Gas,Boyolali,Perkantoran,Input,electricity,"103,000.00",kWh,Energi
+Oil & Gas,Boyolali,Pompa,Input,electricity,"241,000.00",kWh,Energi
+Oil & Gas,Boyolali,Perkantoran,Input,Feed Water,512.00,m3,Material
+Oil & Gas,Boyolali,Perkantoran,Input,Feed Water,512.00,m3,Material
+Oil & Gas,Boyolali,Perkantoran,Input,Feed Water,512.00,m3,Material
+Oil & Gas,Boyolali,Perkantoran,Input,Feed Water,512.00,m3,Material
+Oil & Gas,Boyolali,Mobil Tangki,Output,BBM,"1,720,000.00",m3,Product
+Oil & Gas,Boyolali,Storage Tank,Input,BBM,"1,430,000.00",m3,Raw Material
+Oil & Gas,Boyolali,Storage Tank,Input,BBM,"1,430,000.00",m3,Raw Material
+Oil & Gas,Boyolali,Storage Tank,Input,BBM,"1,430,000.00",m3,Raw Material
+Oil & Gas,Boyolali,Perkantoran,Output,Kertas bekas,440.00,kg,Waste
+Oil & Gas,Boyolali,Perkantoran,Output,waste,"87,200.00",kg,Waste
+Oil & Gas,Boyolali,Perkantoran,Output,waste,"87,200.00",kg,Waste
+Oil & Gas,Boyolali,Perkantoran,Output,waste,"1,840,000.00",kg,Waste
+Oil & Gas,Boyolali,Perkantoran,Output,waste,"1,840,000.00",kg,Waste
+Oil & Gas,Boyolali,Perkantoran,Output,waste,"5,950,000.00",kg,Waste
+Oil & Gas,Boyolali,Perkantoran,Output,waste,"5,950,000.00",kg,Waste
+Oil & Gas,Cilacap,WTP,Output,BOD,226.89,kg,Emisi ke air
+Oil & Gas,Cilacap,WTP,Output,COD,541.04,kg,Emisi ke air
+Oil & Gas,Cilacap,Oil Catcher,Output,Minyak & Lemak,3.62,kg,Emisi ke air
+Oil & Gas,Cilacap,WTP,Output,Minyak & Lemak,52.36,kg,Emisi ke air
+Oil & Gas,Cilacap,Oil Catcher,Output,TOC,17.50,kg,Emisi ke air
+Oil & Gas,Cilacap,WTP,Output,TOC,213.58,kg,Emisi ke air
+Oil & Gas,Cilacap,Genset,Output,Carbon Dioxide (CO2),"20,818.19",kg,Emisi Ke Udara
+Oil & Gas,Cilacap,Use Stage,Output,Carbon Dioxide (CO2),"3,672,621,423.00",kg,Emisi Ke Udara
+Oil & Gas,Cilacap,Genset,Output,Dinitrogen Monoxide (N2O),0.00,kg,Emisi Ke Udara
+Oil & Gas,Cilacap,Mobil Tangki,Output,Dinitrogen Monoxide (N2O),0.04,kg,Emisi Ke Udara
+Oil & Gas,Cilacap,Use Stage,Output,Dinitrogen Monoxide (N2O),34.34,kg,Emisi Ke Udara
+Oil & Gas,Cilacap,Mobil Tangki,Output,Methane (CH4),"9,072.58",kg,Emisi Ke Udara
+Oil & Gas,Cilacap,Use Stage,Output,Methane (CH4),"266,378.00",kg,Emisi Ke Udara
+Oil & Gas,Cilacap,Mobil Tangki,Output,Nitrogen Oxide (NO),"8,487.25",kg,Emisi Ke Udara
+Oil & Gas,Cilacap,Genset,Output,Particulate,40.85,kg,Emisi Ke Udara
+Oil & Gas,Cilacap,Mobil Tangki,Output,Particulate,175.12,kg,Emisi Ke Udara
+Oil & Gas,Cilacap,Genset,Output,Sulfur Oxide (SO),40.85,kg,Emisi Ke Udara
+Oil & Gas,Cilacap,Mobil Tangki,Output,Sulfur Oxide (SO),"129,064.75",kg,Emisi Ke Udara
+Oil & Gas,Cilacap,HRSG,Output,VOC,"467,439.40",kg,Emisi Ke Udara
+Oil & Gas,Cilacap,Gas Turbine,Output,VOC,"1,181,056.00",kg,Emisi Ke Udara
+Oil & Gas,Cilacap,Genset,Input,Diesel,"6,850.34",kg,Energi
+Oil & Gas,Cilacap,Mobil Tangki,Input,Diesel,"1,434,261.45",kg,Energi
+Oil & Gas,Cilacap,Pompa,Input,electricity,"35,638.60",kWh,Energi
+Oil & Gas,Cilacap,Perkantoran,Input,electricity,"53,457.90",kWh,Energi
+Oil & Gas,Cilacap,Perkantoran,Input,electricity,"216,774.00",kWh,Energi
+Oil & Gas,Cilacap,Pompa,Input,electricity,"325,162.00",kWh,Energi
+Oil & Gas,Cilacap,Perkantoran,Input,Feed Water,"1,818.00",m3,Material
+Oil & Gas,Cilacap,Mobil Tangki,Output,BBM,"1,790,585.80",m3,Product
+Oil & Gas,Cilacap,Storage Tank,Input,BBM,"36,944.00",m3,Raw Material
+Oil & Gas,Cilacap,Storage Tank,Input,BBM,"1,754,901.86",m3,Raw Material
+Oil & Gas,Cilacap,Pompa,Output,Air Limpasan,"291,200.00",kg,Waste
+Oil & Gas,Cilacap,Storage Tank,Output,Air Limpasan,"360,800.00",kg,Waste
+Oil & Gas,Cilacap,Perkantoran,Output,Kertas bekas,"1,479.28",kg,Waste
+Oil & Gas,Cilacap,Perkantoran,Output,Lampu TL bekas,12.00,kg,Waste
+Oil & Gas,Cilacap,Genset,Output,lube oil (waste),97.00,kg,Waste
+Oil & Gas,Cilacap,Filter Separator,Output,waste,58.00,kg,Waste
+Oil & Gas,Cilacap,Perkantoran,Output,waste,"1,579.39",kg,Waste
+Oil & Gas,Cilacap,Perkantoran,Output,waste,"10,848.06",kg,Waste
+Oil & Gas,Cilacap,Storage Tank,Output,Waste Water,"14,710.00",kg,Waste
+Oil & Gas,FT Rewulu,Genset,Input,lube oil,97.00,kg,Bahan Kimia
+Oil & Gas,FT Rewulu,WTP,Output,BOD,21.80,kg,Emisi ke air
+Oil & Gas,FT Rewulu,WTP,Output,COD,53.70,kg,Emisi ke air
+Oil & Gas,FT Rewulu,Oil Catcher,Output,Minyak & Lemak,2.04,kg,Emisi ke air
+Oil & Gas,FT Rewulu,Oil Catcher,Output,TOC,9.13,kg,Emisi ke air
+Oil & Gas,FT Rewulu,Oil Catcher,Output,Waste Water,709.00,m3,Emisi ke air
+Oil & Gas,FT Rewulu,WTP,Output,Waste Water,"1,840.00",m3,Emisi ke air
+Oil & Gas,FT Rewulu,Genset,Output,Carbon Dioxide (CO2),"22,400.00",kg,Emisi Ke Udara
+Oil & Gas,FT Rewulu,Use Stage,Output,Carbon Dioxide (CO2),"3,680,000,000.00",kg,Emisi Ke Udara
+Oil & Gas,FT Rewulu,Genset,Output,Dinitrogen Monoxide (N2O),0.17,kg,Emisi Ke Udara
+Oil & Gas,FT Rewulu,Use Stage,Output,Dinitrogen Monoxide (N2O),"34,400.00",kg,Emisi Ke Udara
+Oil & Gas,FT Rewulu,Genset,Output,Methane (CH4),0.84,kg,Emisi Ke Udara
+Oil & Gas,FT Rewulu,Use Stage,Output,Methane (CH4),"267,000.00",kg,Emisi Ke Udara
+Oil & Gas,FT Rewulu,Genset,Output,Nitrogen Oxide (NO),614.00,kg,Emisi Ke Udara
+Oil & Gas,FT Rewulu,Genset,Output,Particulate,43.70,kg,Emisi Ke Udara
+Oil & Gas,FT Rewulu,Genset,Output,Sulfur Oxide (SO),40.80,kg,Emisi Ke Udara
+Oil & Gas,FT Rewulu,Pompa,Output,VOC,"467,000.00",kg,Emisi Ke Udara
+Oil & Gas,FT Rewulu,Storage Tank,Output,VOC,"1,180,000.00",kg,Emisi Ke Udara
+Oil & Gas,FT Rewulu,Genset,Input,Diesel,0.01,m3,Energi
+Oil & Gas,FT Rewulu,Perkantoran,Input,electricity,"25,200.00",kWh,Energi
+Oil & Gas,FT Rewulu,Pompa,Input,electricity,"58,800.00",kWh,Energi
+Oil & Gas,FT Rewulu,Perkantoran,Input,electricity,"137,000.00",kWh,Energi
+Oil & Gas,FT Rewulu,Pompa,Input,electricity,"321,000.00",kWh,Energi
+Oil & Gas,FT Rewulu,Perkantoran,Input,Feed Water,"1,730.00",m3,Material
+Oil & Gas,FT Rewulu,Mobil Tangki,Output,BBM,"1,790,000.00",m3,Product
+Oil & Gas,FT Rewulu,Storage Tank,Input,BBM,"3,698,865.00",m3,Raw Material
+Oil & Gas,FT Rewulu,Perkantoran,Output,Kertas bekas,1.73,kg,Waste
+Oil & Gas,FT Rewulu,Perkantoran,Output,Lampu TL bekas,12.00,kg,Waste
+Oil & Gas,FT Rewulu,Genset,Output,lube oil (waste),97.00,kg,Waste
+Oil & Gas,FT Rewulu,Filter Separator,Output,waste,58.00,kg,Waste
+Oil & Gas,FT Rewulu,Perkantoran,Output,waste,"1,580.00",kg,Waste
+Oil & Gas,FT Rewulu,Perkantoran,Output,waste,"10,800.00",kg,Waste
+Oil & Gas,FT Rewulu,Storage Tank,Output,Waste Water,"14,700.00",kg,Waste
+Oil & Gas,Makasar,Oil Catcher,Output,Minyak & Lemak,0.23,kg,Emisi ke air
+Oil & Gas,Makasar,Oil Catcher,Output,TOC,"138,000.00",kg,Emisi ke air
+Oil & Gas,Makasar,Oil Catcher,Output,Waste Water,85.70,m3,Emisi ke air
+Oil & Gas,Makasar,Genset,Output,Carbon Dioxide (CO2),"8,780.00",kg,Emisi Ke Udara
+Oil & Gas,Makasar,Use Stage,Output,Carbon Dioxide (CO2),"4,780,000,000.00",kg,Emisi Ke Udara
+Oil & Gas,Makasar,Use Stage,Output,Dinitrogen Monoxide (N2O),"62,500.00",kg,Emisi Ke Udara
+Oil & Gas,Makasar,Use Stage,Output,Methane (CH4),"287,000.00",kg,Emisi Ke Udara
+Oil & Gas,Makasar,Genset,Output,Nitrogen Oxides (NOx),938.36,kg,Emisi Ke Udara
+Oil & Gas,Makasar,Genset,Output,Particulate Matter (PM10),5.63,kg,Emisi Ke Udara
+Oil & Gas,Makasar,Genset,Output,Sulfur Oxides (SOx),4.99,kg,Emisi Ke Udara
+Oil & Gas,Makasar,Storage Tank,Output,VOC,"138,000.00",kg,Emisi Ke Udara
+Oil & Gas,Makasar,Genset,Input,Diesel,"2,680.00",kg,Energi
+Oil & Gas,Makasar,Penerimaan,Input,electricity,44.40,kWh,Energi
+Oil & Gas,Makasar,Pompa,Input,electricity,44.40,kWh,Energi
+Oil & Gas,Makasar,Storage Tank,Input,electricity,44.40,kWh,Energi
+Oil & Gas,Makasar,Perkantoran,Input,electricity,133.00,kWh,Energi
+Oil & Gas,Makasar,Pompa,Input,electricity,622.00,kWh,Energi
+Oil & Gas,Makasar,Penerimaan,Input,electricity,"15,600.00",kWh,Energi
+Oil & Gas,Makasar,Pompa,Input,electricity,"15,600.00",kWh,Energi
+Oil & Gas,Makasar,Storage Tank,Input,electricity,"15,600.00",kWh,Energi
+Oil & Gas,Makasar,Perkantoran,Input,electricity,"46,900.00",kWh,Energi
+Oil & Gas,Makasar,Pompa,Input,electricity,"219,000.00",kWh,Energi
+Oil & Gas,Makasar,Perkantoran,Input,Feed Water,"1,840.00",m3,Material
+Oil & Gas,Makasar,Use Stage,Output,BBM,"2,280,000.00",m3,Product
+Oil & Gas,Makasar,Penerimaan,Input,BBM,"2,798,232.26",m3,Raw Material
+Oil & Gas,Makasar,Genset,Input,lube oil,0.08,m3,Raw Material
+Oil & Gas,Makasar,Mobil Tangki,Input,lube oil,6.81,m3,Raw Material
+Oil & Gas,Makasar,Pompa,Output,Air Limpasan,284.00,m3,Waste
+Oil & Gas,Makasar,Storage Tank,Output,Air Limpasan,"1,160.00",m3,Waste
+Oil & Gas,Makasar,Perkantoran,Output,Air Limpasan,"1,840.00",m3,Waste
+Oil & Gas,Makasar,Storage Tank,Output,Refinery sludge,"57,700.00",kg,Waste
+Oil & Gas,Makasar,Genset,Output,waste,224.00,kg,Waste
+Oil & Gas,Makasar,Penerimaan,Output,waste,224.00,kg,Waste
+Oil & Gas,Makasar,Pompa,Output,waste,224.00,kg,Waste
+Oil & Gas,Makasar,Pompa,Output,waste,224.00,kg,Waste
+Oil & Gas,Makasar,Storage Tank,Output,waste,224.00,kg,Waste
+Oil & Gas,Makasar,Perkantoran,Output,waste,"4,070.00",kg,Waste
+Oil & Gas,Makasar,Genset,Output,Waste Water,58.00,kg,Waste
+Oil & Gas,Makasar,Mobil Tangki,Output,Waste Water,58.00,kg,Waste
+Oil & Gas,Rewulu,Storage Tank,Input,BBM,"176,000,000.00",m3,Raw Material
+Oil & Gas,Boyolali,Storage Tank,Input,BBM,"1,433,969.40",m3,Material Utama
+Oil & Gas,Boyolali,Pompa filling shed,Input,Electricity,"13,440.00",kwh,Energi
+Oil & Gas,Boyolali,Perkantoran ,Input,Electricity,"5,760.00",kwh,Energi
+Oil & Gas,Boyolali,Genset,Input,BBM,"1,487,000.00",liter,Energi
+Oil & Gas,Boyolali,Perkantoran ,Input,Electricity,"103,284.00",kWh,Energi
+Oil & Gas,Boyolali,Pompa Filling Shed,Input,Electricity,"240,996.00",kWh,Energi
+Oil & Gas,Boyolali,Perkantoran,Input,Water,512.30,m3,Pemakaian air
+Oil & Gas,Boyolali,IPAL Domestik,Input,chlorine,"10,400,000.00",kg,Bahan Kimia
+Oil & Gas,Boyolali,Mobil Tangki,Output,BBM,"1,717,851.75",m3,Produk
+Oil & Gas,Boyolali,Genset ,Output,carbon dioxide (CO2),"25,200.00",kg,Emisi ke udara
+Oil & Gas,Boyolali,Use Stage,Output,carbon dioxide (CO2),"3,662,092,177,000.00",kg,Emisi ke udara
+Oil & Gas,Boyolali,use stage,Output,Methane (CH4),"179,455,000.00",kg,Emisi ke udara
+Oil & Gas,Boyolali,genset,Output,nitrogen oxide (NO),700.00,kg,Emisi ke udara
+Oil & Gas,Boyolali,genset,Output,particulate,100.00,kg,Emisi ke udara
+Oil & Gas,Boyolali,Storage Tank,Output,VOC,"1,897,000,000.00",kg,Emisi ke udara
+Oil & Gas,Boyolali,genset,Output,Dinitrogen monoxide (N2O),199.00,kg,Emisi ke udara
+Oil & Gas,Boyolali,use stage ,Output,Dinitrogen monoxide (N2O),"56,866,000.00",kg,Emisi ke udara
+Oil & Gas,Boyolali,WWTP,Output,BOD,402.86,kg,Emisi ke air
+Oil & Gas,Boyolali,WWTP,Output,COD,"1,236.62",kg,Emisi ke air
+Oil & Gas,Boyolali,Oil Catcher,Output,minyak dan lemak,43.79,kg,Emisi ke air
+Oil & Gas,Boyolali,Oil Catcher,Output,TOC,165.21,kg,Emisi ke air
+Oil & Gas,Boyolali,Oil Catcher,Output,Debit buang Air Limpasan,374.70,kg,Emisi ke air
+Oil & Gas,Boyolali,Kolam PMK,Output,Debit buang,574.50,kg,Emisi ke air
+Oil & Gas,Boyolali,perkantoran,Output,Kertas bekas,"5,945,000,000.00",kg,limbah
+Oil & Gas,Boyolali,perkantoran,Output,limbah organik,"87,200,000.00",kg,limbah
+Oil & Gas,Boyolali,perkantoran,Output,plastik bekas,"87,200,000.00",kg,limbah
+Oil & Gas,Boyolali,perkantoran,Output,sampah logam,"1,840,000,000.00",kg,limbah
